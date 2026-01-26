@@ -16,10 +16,14 @@
 :CTR: <<CTR, CTR>>
 :D: <<Classe, D>>
 :FL115: <<FL115, FL115>>
+:G: <<Classe, G>>
 :GP: <<GP, GP>>
+:NOTAM: <<NOTAM, NOTAM>>
+:PUL: <<PUL, PUL>>
 :TMA: <<TMA, TMA>>
 :R: <<R, R>>
 :RTBA: <<RTBA, RTBA>>
 :SIA: <<SIA, SIA>>
+:VAC: <<VAC, VAC>>
 :ZRT: <<ZRT, ZRT>>
 

@@ -7,6 +7,9 @@
 [[Classe]]
 **Classe** de zone aérienne : classification des espaces aériens selon les règles de vol et les services de contrôle aérien applicables. Les classes vont de A à G, chaque classe ayant des règles spécifiques pour les pilotes de vol libre (cf. tableau ci-dessous). Le plus simple à retenir est que les classes A, B, C et D sont interdites au vol libre.
 
+.Tableau récapitulatif des classes d'espaces aériens (source https://federation.ffvl.fr/sites/ffvl.fr/files/EA-Les_Fondamentaux_0.pdf[FFVL])
+image::classes.png[Classes d'espaces aériens, 95%, alt="Tableau récapitulatif des classes d'espaces aériens"]
+
 [[CTR]]
 **CTR** (🇬🇧 _Controlled Traffic Region_) : zone de contrôle aérienne autour d'un aérodrome, interdite au vol libre.
 
@@ -15,6 +18,13 @@
 
 [[GP]]
 **GP** (🇬🇧 _Glider Prohibited_) : Zone de protection des Parcs ou Réserves Naturels protégés via décret gouvernemental. Se renseigner sur les dates ou périodes d'activation.
+
+[[NOTAM]]
+**NOTAM** (🇬🇧 _NOtice To AirMen_) : avis aux aviateurs publié par les autorités aéronautiques pour informer les pilotes des conditions temporaires ou permanentes affectant la navigation aérienne.
+
+[[PUL]]
+**PUL** (Planeur Ultra-Léger) : C'est notre catégirie d'aéronaef.
+Pour y appartenir, il faut décoller avec la seule force musculaire, faire moins de 250 kg et être non motorisé.
 
 [[R]]
 **R** (Réglementée) : Il s'agit typiquement des zones d'entrainement de la Défense nationale. Cf. {RTBA} et {ZRT}. 
@@ -29,9 +39,14 @@ Lorsque la zone est active, il est bien entendu absolument interdit d’y péné
 [[TMA]]
 **TMA** (🇬🇧 _Terminal Maneuvering Area_) : zone de contrôle aérienne autour d'un aérodrome, où les pilotes doivent respecter des règles spécifiques de vol.
 
+[[VAC]]
+**VAC** (🇬🇧 _Visual Approach Chart_) : fiches d'approche à vue éditées par le {SIA}. 
+Elles décrivent les procédures VFR (entrée/sortie de circuit, fréquences, altitude de circuit, QFU, points de report, obstacles, etc.) de chaque aérodrome français.
+
+[[VFR]]
+**VFR** (Visual Flight Rules) : règles de vol à vue, utilisées pour les vols en conditions météorologiques favorables.
+
 [[ZRT]]
 **ZRT** (Zone Règlementée Temporaire) : zone interdite au vol libre, mais autorisée pour les vols spécifiques (ex: exercices militaires).
 
 
-.Tableau récapitulatif des classes d'espaces aériens (source https://federation.ffvl.fr/sites/ffvl.fr/files/EA-Les_Fondamentaux_0.pdf[FFVL])
-image::classes.png[Classes d'espaces aériens, 95%, alt="Tableau récapitulatif des classes d'espaces aériens"]

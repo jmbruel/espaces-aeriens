@@ -13,8 +13,8 @@ NOTE: Les informations fournies ici sont à titre indicatif et ne remplacent pas
 
 == Questions fréquemment posées
 
-include::aerodromes.adoc[leveloffset=+2]
 include::casSurvol.adoc[leveloffset=+2]
+include::aerodromes.adoc[leveloffset=+2]
 
 == Questions Générales
 

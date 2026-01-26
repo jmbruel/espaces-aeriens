@@ -32,7 +32,7 @@ En cliquant dans l'application {SpotAir} sur les différentes zones, on obtient 
 
 | image:tuchan2.png[]| TMA Montpellier 15 | {D} | La zone réservée étant entre la plus basse des deux valeurs : 2000 pieds (610m) ou 1000 pieds (310m) au-dessus du sol ({ASFC}), cela implique que le vol est autorisé en dessous de ces 2 limites.
 
-| image:tuchan3.png[] | CTR Perpignan | {D} | La zone réservée une {CTR})n'a pas de limite basse, donc le vol est interdit dans cette zone.
+| image:tuchan3.png[] | CTR Perpignan | {D} | La zone réservée est une {CTR} et n'a pas de limite basse, donc le vol est interdit dans cette zone.
 
 | image:tuchan4.png[] | Zone de Serrat | {GP} | Obligation de survoler la zone 300m au-dessus du sol. 
 ⚠️ ATTENTION : la zone est dans une {CTR}, donc le vol est interdit dans cette zone.
