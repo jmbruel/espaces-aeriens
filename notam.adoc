@@ -1,0 +1,19 @@
+= Quelles sont les règles à l'approche d'un aérodrome ?
+ifndef::full[]
+include::definitions.adoc[]
+endif::[]
+
+Il est rappelé que les aérodromes sont situés en classe {G}. 
+Lors de son pré-vol, il faut délimiter une zone de 3 nautiques à peut près autour de l'aérodrome et ne surtout pas y voler.
+
+Il existe néanmoins de nombreuses exceptions.
+Par exemple à Luchon :
+
+.Exemple Atterrissage de Luchon, près de l'aérodrome (Cartes complètes link:docs/D-2.LFCB.pdf[ici])
+image::luchon.png[Atterrissage de Luchon, 95%, alt="Atterrissage de Luchon"]
+
+[NOTE]
+=====
+Les circuits d'approche de chaque aérodrome figurent dans les cartes {VAC} (une par aérodrome) disponibles sur le site du {SIA}. 
+En l'occurrence, concernant Luchon, la carte {VAC} permet de lever tout doute, dans la mesure où la zone d'atterrissage des {PUL} (parapentes/ delta) figure expressément, et les circuits d'approche N et S sont prévus pour  l'éviter.
+=====

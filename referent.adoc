@@ -1,0 +1,25 @@
+= C'est quoi le rôle du référent Espaces Aériens ?
+ifndef::full[]
+include::definitions.adoc[]
+endif::[]
+
+Votre ligue, votre CDVL et peut-être aussi votre club ont des "référents EA". Leur rôle ...
+
+Ils sont en relation avec les stuctures aéronautiques.
+
+**DGAC**
+Présentation :
+https://archives.defense.gouv.fr/content/download/592212/10032454/file/20200903_NP_DSAE-
+COM_presentation-direction-generale-aviation-civile_sept-2020%2520.pdf
+
+**DIRCAM**
+Site Web de la DIRCAM : https://www.dircam.dsae.defense.gouv.fr/index.php/fr/
+Dans Documentation aéronautique > Exercices Défense, figure un calendrier prévisionnel des
+exercices aériens prévus pour les prochains mois (clic sur l'image Exercices Défense).
+
+**C NFAS / Fédérations**
+Page web du CNFAS : https://cnfas.fr/
+Pièce jointe CR SEMINAIRE CCRAGALS CNFAS 2025 02 01.docx
+
+**CCRAGALS** (structure et fonctionnement)
+https://federation.ffvl.fr/sites/ffvl.fr/files/Presentation-CCRAGALS.pdf
