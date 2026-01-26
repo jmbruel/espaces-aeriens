@@ -1,0 +1,11 @@
+= Qu'est-ce que je risque à traverser une zone interdite ?
+ifndef::full[]
+include::definitions.adoc[]
+endif::[]
+
+Vous risquez gros : enquête de police, suspension, non prise en charge des assurances, etc.
+
+Voici un simple rappel à l'ordre, concernant un incident qui s'est passée en 2025 en France :
+
+.Exemple de rappel à l'ordre suite au survol d'une zone classée D (source : FFVL)
+image::incident.png[Cas de survol d'une zone interdite, 95%, alt="Cas de survol d'une zone interdite"]

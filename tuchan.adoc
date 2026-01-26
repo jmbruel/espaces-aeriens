@@ -1,0 +1,63 @@
+= Illustration : le site de Tuchan
+ifndef::full[]
+Jean-Michel Bruel -- Référent Espaces Aériens CDVL11 
+include::definitions.adoc[]
+endif::[]
+
+== Le site de Tuchan
+
+Le décolage et l'atterrissage de {tuchan} se situent dans une zone de classe {D} : une {TMA}.
+Ce qui implique certaines règles de survol.
+
+Il faut donc consulter les cartes aéronautiques (sur le {SIA}), ou utiliser une application mobile spécialisée, comme {spotair} pour connaître les règles applicables.
+
+Le site de la FFVL dédié à {tuchan} fournit des informations utiles :
+
+[.bordered]
+.Les informations sur le site de la FFVL
+image::tuchan-ffvl.png[Informations sur le site de Tuchan, 95%, alt="Informations sur le site de Tuchan"]
+
+== Exemple sur SpotAir 
+
+.Les zones aériennes proches de Tuchan (source : SpotAir)
+image::tuchan.png[Zones aériennes proches de Tuchan, 95%, alt="Zones aériennes proches de Tuchan"]
+
+En cliquant dans l'application {SpotAir} sur les différentes zones, on obtient les informations suivantes :
+
+[cols="3,2,1,3", options="header"]
+|===
+| Cartouche | Zone | Classe | Règle à respecter en vol libre
+
+| image:tuchan1.png[] | TMA Montpellier 16 | {D} | La zone réservée étant entre 4000 pieds (1220m) et la {FL115} (3510m), cela implique que le vol est autorisé en dessous de 1220m.
+
+| image:tuchan2.png[]| TMA Montpellier 15 | {D} | La zone réservée étant entre la plus basse des deux valeurs : 2000 pieds (610m) ou 1000 pieds (310m) au-dessus du sol ({ASFC}), cela implique que le vol est autorisé en dessous de ces 2 limites.
+
+| image:tuchan3.png[] | CTR Perpignan | {D} | La zone réservée une {CTR})n'a pas de limite basse, donc le vol est interdit dans cette zone.
+
+| image:tuchan4.png[] | Zone de Serrat | {GP} | Obligation de survoler la zone 300m au-dessus du sol. 
+⚠️ ATTENTION : la zone est dans une {CTR}, donc le vol est interdit dans cette zone.
+
+| image:tuchan5.png[] | R 89 | {R} | Zone réglementée, interdite au vol libre, sauf si elle est inactive.
+⚠️ ATTENTION : la zone est dans une {CTR}, donc le vol est interdit dans cette zone.
+|===
+
+
+
+== Le Service d'Information Aéronautique
+
+Le {SIA} (Service d'Information Aéronautique) est le site officiel à consulter pour préparer ses vols.
+Il fournit les cartes aéronautiques et les informations sur les espaces aériens.
+
+.Le site du SIA
+image::tuchan-sia.png[Site du SIA, 95%, alt="Site du SIA"]
+
+NOTE: Les informations sur les sites de vol libre sont un peu difficiles à obtenir sur le site du SIA.
+
+ifndef::full[]
+
+
+:numbered!:
+[appendix]
+include::acronymes.adoc[leveloffset=+1]
+
+endif::[]

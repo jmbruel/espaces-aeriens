@@ -1,0 +1,37 @@
+= Acronymes
+// Liste
+
+[[ASFC]]
+**ASFC** (🇬🇧 Above SurFaCe ) : centre de service aérien d'un aérodrome, qui fournit des informations et des services aux pilotes.
+
+[[Classe]]
+**Classe** de zone aérienne : classification des espaces aériens selon les règles de vol et les services de contrôle aérien applicables. Les classes vont de A à G, chaque classe ayant des règles spécifiques pour les pilotes de vol libre (cf. tableau ci-dessous). Le plus simple à retenir est que les classes A, B, C et D sont interdites au vol libre.
+
+[[CTR]]
+**CTR** (🇬🇧 _Controlled Traffic Region_) : zone de contrôle aérienne autour d'un aérodrome, interdite au vol libre.
+
+[[FL115]]
+**FL115** (🇬🇧 _Flight Level 115_) : niveau de vol 115, soit une altitude de 11 500 pieds (environ 3510 m) au-dessus du niveau moyen de la mer.
+
+[[GP]]
+**GP** (🇬🇧 _Glider Prohibited_) : Zone de protection des Parcs ou Réserves Naturels protégés via décret gouvernemental. Se renseigner sur les dates ou périodes d'activation.
+
+[[R]]
+**R** (Réglementée) : Il s'agit typiquement des zones d'entrainement de la Défense nationale. Cf. {RTBA} et {ZRT}. 
+Lorsque la zone est active, il est bien entendu absolument interdit d’y pénétrer. 
+
+[[RTBA]]
+**RTBA** (Réseau Très Basse Altitude) : réseau de zones d'entraînement de la Défense nationale.
+
+[[SIA]]
+**SIA** (Service d'Information Aéronautique) : service de l'aviation civile qui fournit les cartes aéronautiques et les informations sur les espaces aériens. Site : https://www.sia.aviation-civile.gouv.fr/.
+
+[[TMA]]
+**TMA** (🇬🇧 _Terminal Maneuvering Area_) : zone de contrôle aérienne autour d'un aérodrome, où les pilotes doivent respecter des règles spécifiques de vol.
+
+[[ZRT]]
+**ZRT** (Zone Règlementée Temporaire) : zone interdite au vol libre, mais autorisée pour les vols spécifiques (ex: exercices militaires).
+
+
+.Tableau récapitulatif des classes d'espaces aériens (source https://federation.ffvl.fr/sites/ffvl.fr/files/EA-Les_Fondamentaux_0.pdf[FFVL])
+image::classes.png[Classes d'espaces aériens, 95%, alt="Tableau récapitulatif des classes d'espaces aériens"]

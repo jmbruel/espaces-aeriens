@@ -1,0 +1,64 @@
+= FAQ - Espaces Aériens
+include::definitions.adoc[]
+:full:
+
+== Introduction
+
+Bienvenue dans cette FAQ (Foire Aux Questions) dédiée aux espaces aériens. 
+Vous trouverez ici les réponses aux questions les plus fréquemment posées.
+
+WARNING: Cette FAQ est en cours de développement. N'hésitez pas à nous faire part de vos questions.
+
+NOTE: Les informations fournies ici sont à titre indicatif et ne remplacent pas les documents officiels (cf. <<Ressources>>).
+
+== Questions fréquemment posées
+
+include::aerodromes.adoc[leveloffset=+2]
+include::casSurvol.adoc[leveloffset=+2]
+
+== Questions Générales
+
+=== Qu'est-ce qu'un espace aérien ?
+
+Un espace aérien est une région de l'atmosphère définie par des limites géographiques et verticales, soumise à des règles de circulation aérienne spécifiques.
+
+=== Quels sont les différents types d'espaces aériens ?
+
+Les espaces aériens se classent en plusieurs catégories selon leur utilisation et les règles applicables.
+
+== Réglementation
+
+=== Qui réglemente les espaces aériens ?
+
+Les autorités aéronautiques nationales et les organismes internationaux comme l'OACI (Organisation de l'Aviation Civile Internationale) définissent les règles.
+
+== Accès et Utilisation
+
+=== Comment accéder à un espace aérien contrôlé ?
+
+L'accès à un espace aérien contrôlé nécessite une autorisation préalable et le respect des procédures établies.
+
+
+== Exemples
+
+include::tuchan.adoc[leveloffset=+2]
+
+
+== Contact
+
+Pour toute question supplémentaire, veuillez nous contacter à l'adresse suivante :  {referent}.
+
+[appendix]
+
+[[Resources]]
+== Ressources
+
+Pour plus d'informations, consultez les documents officiels des autorités aéronautiques :
+
+- link:https://www.aviation-civile.gouv.fr[🇫🇷 DGAC - Direction Générale de l'Aviation Civile]
+- link:https://www.easa.europa.eu[🇬🇧 EASA - Agence Européenne de la Sécurité Aérienne]
+- link:https://www.icao.int/fr[🇫🇷 OACI - Organisation de l'Aviation Civile Internationale]
+
+[appendix]
+
+include::acronymes.adoc[leveloffset=+1]
