@@ -10,6 +10,8 @@
 .Tableau récapitulatif des classes d'espaces aériens (source https://federation.ffvl.fr/sites/ffvl.fr/files/EA-Les_Fondamentaux_0.pdf[FFVL])
 image::classes.png[Classes d'espaces aériens, 95%, alt="Tableau récapitulatif des classes d'espaces aériens"]
 
+TIP: Dans le milieu de l'aviation, ces classes sont désignées par l'alphabet international (Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf).
+
 [[CTR]]
 **CTR** (🇬🇧 _Controlled Traffic Region_) : zone de contrôle aérienne autour d'un aérodrome, interdite au vol libre.
 
@@ -27,7 +29,7 @@ image::classes.png[Classes d'espaces aériens, 95%, alt="Tableau récapitulatif 
 Pour y appartenir, il faut décoller avec la seule force musculaire, faire moins de 250 kg et être non motorisé.
 
 [[R]]
-**R** (Réglementée) : Il s'agit typiquement des zones d'entrainement de la Défense nationale. Cf. {RTBA} et {ZRT}. 
+**R** (Réglementée ou 🇬🇧 _Restricted_) : Il s'agit typiquement des zones d'entrainement de la Défense nationale. Cf. {RTBA} et {ZRT}. 
 Lorsque la zone est active, il est bien entendu absolument interdit d’y pénétrer. 
 
 [[RTBA]]
