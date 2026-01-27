@@ -30,7 +30,7 @@ En cliquant dans l'application {SpotAir} sur les différentes zones, on obtient 
 
 | image:tuchan1.png[] | TMA Montpellier 16 | {D} | La zone réservée étant entre 4000 pieds (1220m) et la {FL115} (3510m), cela implique que le vol est autorisé en dessous de 1220m.
 
-| image:tuchan2.png[]| TMA Montpellier 15 | {D} | La zone réservée étant entre la plus basse des deux valeurs : 2000 pieds (610m) ou 1000 pieds (310m) au-dessus du sol ({ASFC}), cela implique que le vol est autorisé en dessous de ces 2 limites.
+| image:tuchan2.png[]| TMA Montpellier 15 | {D} | La zone réservée étant entre la plus haute des deux valeurs : 2000 pieds (610m) ou 1000 pieds (310m) au-dessus du sol ({ASFC}), cela implique que le vol est autorisé en dessous de ces 2 limites.
 
 | image:tuchan3.png[] | CTR Perpignan | {D} | La zone réservée est une {CTR} et n'a pas de limite basse, donc le vol est interdit dans cette zone.
 
@@ -41,7 +41,15 @@ En cliquant dans l'application {SpotAir} sur les différentes zones, on obtient 
 ⚠️ ATTENTION : la zone est dans une {CTR}, donc le vol est interdit dans cette zone.
 |===
 
+[TIP]
+=====
+image:2limites.png[Limites basses, 30%, alt="Limites basses"]
 
+Quand la cartouche mentionne 2 chiffres en zone basse (exemple : 1500 ft ASFC / 2000 ft), cela signifie que la limite basse de la zone est la plus haute des deux valeurs.
+Ce qui est logique si on imagine une zone suivant le relief.
+Pour plus de détails concernant la lecture des cartouches et des cartes, consultez link:docs/legend.pdf[ce document].
+
+=====
 
 == Le Service d'Information Aéronautique
 
