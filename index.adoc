@@ -55,9 +55,10 @@ Pour toute question supplémentaire, veuillez nous contacter à l'adresse suivan
 
 Pour plus d'informations, consultez les documents officiels des autorités aéronautiques :
 
-- link:https://www.aviation-civile.gouv.fr[🇫🇷 DGAC - Direction Générale de l'Aviation Civile]
-- link:https://www.easa.europa.eu[🇬🇧 EASA - Agence Européenne de la Sécurité Aérienne]
-- link:https://www.icao.int/fr[🇫🇷 OACI - Organisation de l'Aviation Civile Internationale]
+- https://www.aviation-civile.gouv.fr[🇫🇷 DGAC - Direction Générale de l'Aviation Civile]
+- https://www.easa.europa.eu[🇬🇧 EASA - Agence Européenne de la Sécurité Aérienne]
+- https://www.icao.int/fr[🇫🇷 OACI - Organisation de l'Aviation Civile Internationale]
+- Liste des référents espaces aériens FFVL https://federation.ffvl.fr/sites/ffvl.fr/files/Referents_EA_FFVL_par_CCRAGALS-DSAC_Ligue_et_CDVL-2026_0.pdf[🇫🇷 PDF]
 
 .Conversions
 [TIP]
