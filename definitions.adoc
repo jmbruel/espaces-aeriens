@@ -6,7 +6,7 @@
 :numbered:
 :toc-title: Table des matières
 
-// Personnes et lieux
+// Personnes et lieux et outils
 :referent: mailto:jbruel@gmail.com[Jean-Michel Bruel]
 :tuchan: https://federation.ffvl.fr/terrain/677[Tuchan]
 :spotair: https://www.spotair.mobi/[SpotAir]

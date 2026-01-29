@@ -61,8 +61,17 @@ image::tuchan-sia.png[Site du SIA, 95%, alt="Site du SIA"]
 
 NOTE: Les informations sur les sites de vol libre sont un peu difficiles à obtenir sur le site du SIA.
 
-ifndef::full[]
+== C'est plus facile en 3D
 
+Vous pouvez aussi télécharger les cartes aéronautiques et les visualiser en 3D avec {GoogleEarth}.
+
+.Tuchan depuis Google Earth
+image::tuchan3D.png[Tuchan depuis Google Earth, 95%, alt="Tuchan depuis Google Earth"]
+
+TIP: Les explications pour utiliser Google Earth avec les cartes aéronautiques sont disponibles ici : https://parapente.ffvl.fr/lespace_aerien_dans_google_earth.
+
+//======================== Annexes pour la version Tuchan seul ========================
+ifndef::full[]
 
 :numbered!:
 [appendix]
