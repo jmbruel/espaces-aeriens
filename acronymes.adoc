@@ -1,8 +1,17 @@
 = Acronymes
 // Liste
 
+[[AIP]]
+**AIP** (🇬🇧 _Aeronautical Information Publication_) -– Information Aéronautique Permanente : publication officielle contenant toutes les informations aéronautiques essentielles pour les pilotes.
+Elles sont publiée par le {SIA}.
+Ce sont des données "permanentes", mais peuvent être modifiés. 
+D'où les {SUPAIP} (Suppléments à l'AIP) qui sont des informations temporaires qui s'ajoutent à l'AIP.
+
+[[AMSL]]
+**AMSL** (🇬🇧 Above Mean Sea Level) : altitude au-dessus du niveau moyen de la mer (précision sur une altitude).
+
 [[ASFC]]
-**ASFC** (🇬🇧 Above SurFaCe ) : centre de service aérien d'un aérodrome, qui fournit des informations et des services aux pilotes.
+**ASFC** (🇬🇧 Above SurFaCe) : altitude au-dessus du relief (précision sur une altitude).
 
 [[Classe]]
 **Classe** de zone aérienne : classification des espaces aériens selon les règles de vol et les services de contrôle aérien applicables. Les classes vont de A à G, chaque classe ayant des règles spécifiques pour les pilotes de vol libre (cf. tableau ci-dessous). Le plus simple à retenir est que les classes A, B, C et D sont interdites au vol libre.
@@ -11,6 +20,7 @@
 image::classes.png[Classes d'espaces aériens, 95%, alt="Tableau récapitulatif des classes d'espaces aériens"]
 
 TIP: Dans le milieu de l'aviation, ces classes sont désignées par l'alphabet international (Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf).
+
 
 [[CTR]]
 **CTR** (🇬🇧 _Controlled Traffic Region_) : zone de contrôle aérienne autour d'un aérodrome, interdite au vol libre.
@@ -37,6 +47,9 @@ Lorsque la zone est active, il est bien entendu absolument interdit d’y péné
 
 [[SIA]]
 **SIA** (Service d'Information Aéronautique) : service de l'aviation civile qui fournit les cartes aéronautiques et les informations sur les espaces aériens. Site : https://www.sia.aviation-civile.gouv.fr/.
+
+[[SUPAIP]]
+**Sup AIP** (🇬🇧 _Supplement to Aeronautical Information Publication_) Suppléments à une {AIP}, notamment pour mettre à jour par exemple des horaires et dates d'activation.
 
 [[TMA]]
 **TMA** (🇬🇧 _Terminal Maneuvering Area_) : zone de contrôle aérienne autour d'un aérodrome, où les pilotes doivent respecter des règles spécifiques de vol.

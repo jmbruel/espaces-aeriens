@@ -1,19 +1,23 @@
-= Quelles sont les règles à l'approche d'un aérodrome ?
+= C'est quoi une NOTAM ?
 ifndef::full[]
 include::definitions.adoc[]
 endif::[]
 
-Il est rappelé que les aérodromes sont situés en classe {G}. 
-Lors de son pré-vol, il faut délimiter une zone de 3 nautiques à peut près autour de l'aérodrome et ne surtout pas y voler.
+Une {NOTAM} (🇬🇧 _NOtice To AirMen_) est un avis aux aviateurs publié par les autorités aéronautiques pour informer les pilotes des conditions temporaires ou permanentes affectant la navigation aérienne.
 
-Il existe néanmoins de nombreuses exceptions.
-Par exemple à Luchon :
+.Exemple de NOTAM : la fête de l'aérodrome de Luchon
+image::notam.png[Exemple de NOTAM, 95%, alt="Exemple de NOTAM"]
 
-.Exemple Atterrissage de Luchon, près de l'aérodrome (Cartes complètes link:docs/D-2.LFCB.pdf[ici])
-image::luchon.png[Atterrissage de Luchon, 95%, alt="Atterrissage de Luchon"]
+Ils vous sont transmis par vos référents espaces aériens ou vos présidents de club, mais vous devez aussi les consulter vous-même avant vos vols.
+
+.Autre exemple de NOTAM : exercices militaires (parachutages)
+image::notam2.png[Exemple de NOTAM militaire, 95%,  alt="Exemple de NOTAM militaire"]
+
+Dans l'exemple ci-dessus, la {SUPAIP} est réréfencée par son numéro (123/25) ainsi qu'un lien de référence (ici sur un https://www.sia.aviation-civile.gouv.fr/documents/download/f/d/14940341/[PDF] qui permet de la carte aérienne de la zone).
+
 
 [NOTE]
 =====
-Les circuits d'approche de chaque aérodrome figurent dans les cartes {VAC} (une par aérodrome) disponibles sur le site du {SIA}. 
-En l'occurrence, concernant Luchon, la carte {VAC} permet de lever tout doute, dans la mesure où la zone d'atterrissage des {PUL} (parapentes/ delta) figure expressément, et les circuits d'approche N et S sont prévus pour  l'éviter.
+Le site le plus pratique pour nous, pour consulter les {NOTAM}, est ici : https://notaminfo.com/francemap.
+Le https://www.sia.aviation-civile.gouv.fr/pub/media/news/file/g/u/guide_de_la_consultation_notam_fran_ais_25_mai_2020.pdf[Guide de la consultation des NOTAM en français] publié par la {SIA} est aussi très utile pour comprendre comment lire les {NOTAM}.
 =====

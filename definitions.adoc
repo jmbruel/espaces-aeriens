@@ -12,6 +12,7 @@
 :spotair: https://www.spotair.mobi/[SpotAir]
 
 // Acronymes
+:AIP: <<AIP, AIP>>
 :ASFC: <<ASFC, ASFC>>
 :CTR: <<CTR, CTR>>
 :D: <<Classe, D>>
@@ -24,6 +25,7 @@
 :R: <<R, R>>
 :RTBA: <<RTBA, RTBA>>
 :SIA: <<SIA, SIA>>
+:SUPAIP: <<SUPAIP, Sup AIP>>
 :VAC: <<VAC, VAC>>
 :ZRT: <<ZRT, ZRT>>
 
