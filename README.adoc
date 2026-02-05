@@ -1,0 +1,9 @@
+= FAQ - Espaces Aériens
+
+Ce sit est une FAQ (Foire Aux Questions) dédiée aux espaces aériens.
+Il est en cours de développement, n'hésitez pas à nous faire part de vos questions.
+
+Ce dépôt constitue les sources de la FAQ, qui est générée à partir de ces fichiers AsciiDoc.
+
+La FAQ elle-même est disponible sur le site : https://jmbruel.github.io/espaces-aeriens/
+
