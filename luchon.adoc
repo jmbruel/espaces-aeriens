@@ -1,0 +1,20 @@
+= Le site de Luchon
+ifndef::full[]
+Jean-Michel Bruel -- Référent Espaces Aériens CDVL11 
+include::definitions.adoc[]
+endif::[]
+
+.Exemple Atterrissage de Luchon, près de l'aérodrome (Cartes complètes link:docs/D-2.LFCB.pdf[ici])
+image::luchon.png[Atterrissage de Luchon, 95%, alt="Atterrissage de Luchon"]
+
+WARNING: To be continued...
+
+
+//======================== Annexes pour la version Tuchan seul ========================
+ifndef::full[]
+
+:numbered!:
+[appendix]
+include::acronymes.adoc[leveloffset=+1]
+
+endif::[]

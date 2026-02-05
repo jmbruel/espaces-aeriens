@@ -16,6 +16,7 @@ NOTE: Les informations fournies ici sont à titre indicatif et ne remplacent pas
 include::casSurvol.adoc[leveloffset=+2]
 include::aerodromes.adoc[leveloffset=+2]
 include::notam.adoc[leveloffset=+2]
+include::activation.adoc[leveloffset=+2]
 
 == Questions Générales
 
@@ -23,9 +24,13 @@ include::notam.adoc[leveloffset=+2]
 
 Un espace aérien est une région de l'atmosphère définie par des limites géographiques et verticales, soumise à des règles de circulation aérienne spécifiques.
 
+WARNING: To be continued...
+
 === Quels sont les différents types d'espaces aériens ?
 
 Les espaces aériens se classent en plusieurs catégories selon leur utilisation et les règles applicables.
+
+WARNING: To be continued...
 
 == Réglementation
 
@@ -33,21 +38,28 @@ Les espaces aériens se classent en plusieurs catégories selon leur utilisation
 
 Les autorités aéronautiques nationales et les organismes internationaux comme l'OACI (Organisation de l'Aviation Civile Internationale) définissent les règles.
 
+WARNING: To be continued...
+
 == Accès et Utilisation
+
+WARNING: To be continued...
 
 === Comment accéder à un espace aérien contrôlé ?
 
 L'accès à un espace aérien contrôlé nécessite une autorisation préalable et le respect des procédures établies.
 
+WARNING: To be continued...
+
 
 == Exemples
 
 include::tuchan.adoc[leveloffset=+2]
+include::luchon.adoc[leveloffset=+2]
 
 
 == Contact
 
-Pour toute question supplémentaire, veuillez nous contacter à l'adresse suivante :  {referent}.
+Pour toute question supplémentaire, n'hésitez pas à mailto:{referentemail}[nous contacter].
 
 [appendix]
 

@@ -25,6 +25,10 @@ TIP: Dans le milieu de l'aviation, ces classes sont désignées par l'alphabet i
 [[CTR]]
 **CTR** (🇬🇧 _Controlled Traffic Region_) : zone de contrôle aérienne autour d'un aérodrome, interdite au vol libre.
 
+[[DIREX]]
+**DIREX** (DIRecteur des EXercices) : Responsable de l'activation ou non d'une zone temporaire (d'exercice).
+C'est la personne à contacter avant d'aller voler dans un secteur concerné par une {ZRT} ou un {RTBA} par exemple.
+
 [[FL115]]
 **FL115** (🇬🇧 _Flight Level 115_) : niveau de vol 115, soit une altitude de 11 500 pieds (environ 3510 m) au-dessus du niveau moyen de la mer.
 

@@ -1,4 +1,4 @@
-= Illustration : le site de Tuchan
+= Le site de Tuchan
 ifndef::full[]
 Jean-Michel Bruel -- Référent Espaces Aériens CDVL11 
 include::definitions.adoc[]

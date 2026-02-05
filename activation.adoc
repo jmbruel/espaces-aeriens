@@ -1,0 +1,34 @@
+= Qui appeler pour avoir les horaires d'activation d'un espace aérien temporaire (type ZRT) ?
+ifndef::full[]
+include::definitions.adoc[]
+endif::[]
+
+Les {NOTAM} mentionnent parfois explicitement le numéro du {DIREX} à contacter pour avoir les horaires d'activation d'une {ZRT}.
+
+.exemple de NOTAM avec indication du DIREX
+image::notam-direx.jpeg[Exemple de NOTAM avec DIREX, 25%]
+
+Mais souvent ce n'est pas le cas comme dans l'exemple <<nodirex, ci-dessous>>.
+
+Dans <<figure, l'exemple ci-dessus>>, la {SUPAIP} est réréfencée par son numéro (123/25 indiqué dans le champs E du NOTAM).
+Sur le site du {SIA}, allez sur "Préparation de vol" > "SUP AIP Metropole" (si vous cherchez en France métropolitaine) et cherchez le numéro de la {SUPAIP} (123/2025 dans notre exemple) pour trouver les horaires d'activation de la {ZRT} :
+
+.Détails de la {SUPAIP}
+image::supaip123.png[Exemple de NOTAM avec DIREX, 95%]
+
+Malheureusement, celle-ci ne donne pas non plus le numéro du {DIREX} :
+
+[[nodirex]]
+.Information pas très utile... mais jamais obsolète !
+image::notam-sans-direx.png[Exemple de NOTAM militaire, 95%,  alt="Exemple de NOTAM militaire"]
+
+
+Pour obtenir le précieux numéro à contacter, il faut aller sur le site https://notaminfo.com/latest?country=France[NOTAM Info] et rechercher dans la liste (CTRL+F) le numéro (ici 123/25) pour enfin trouver le numéro du {DIREX} à contacter :
+
+.exemple de NOTAM à jour avec indication du DIREX
+image::notam-direx2.png[Exemple de NOTAM avec DIREX, 95%]
+
+
+TIP: Le site le plus pratique pour nous, pour consulter les {NOTAM}, est ici : https://notaminfo.com/francemap.
+
+NOTE: Le https://www.sia.aviation-civile.gouv.fr/pub/media/news/file/g/u/guide_de_la_consultation_notam_fran_ais_25_mai_2020.pdf[Guide de la consultation des NOTAM en français] publié par la {SIA} est aussi très utile pour comprendre comment lire les {NOTAM}.

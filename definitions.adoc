@@ -7,15 +7,18 @@
 :toc-title: Table des matières
 
 // Personnes et lieux et outils
-:referent: mailto:jbruel@gmail.com[Jean-Michel Bruel]
+:referentemail:jbruel@gmail.com
+:referent: mailto:{referent}[Jean-Michel Bruel]
 :tuchan: https://federation.ffvl.fr/terrain/677[Tuchan]
 :spotair: https://www.spotair.mobi/[SpotAir]
 
 // Acronymes
 :AIP: <<AIP, AIP>>
 :ASFC: <<ASFC, ASFC>>
+:ASML: <<ASML, ASML>>
 :CTR: <<CTR, CTR>>
 :D: <<Classe, D>>
+:DIREX: <<DIREX,DIREX>>
 :FL115: <<FL115, FL115>>
 :G: <<Classe, G>>
 :GP: <<GP, GP>>
