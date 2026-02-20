@@ -21,13 +21,26 @@ image::classes.png[Classes d'espaces aériens, 95%, alt="Tableau récapitulatif 
 
 TIP: Dans le milieu de l'aviation, ces classes sont désignées par l'alphabet international (Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf).
 
+[[CNFAS]]
+**CNFAS** (https://cnfas.fr/[Comité National des Fédérations de l'Aviation Sportive]) : comité national chargé de représenter les intérêts des sports aériens auprès des autorités aéronautiques et de coordonner les actions des différentes fédérations sportives aériennes.
 
 [[CTR]]
 **CTR** (🇬🇧 _Controlled Traffic Region_) : zone de contrôle aérienne autour d'un aérodrome, interdite au vol libre.
 
+[[CCRAGALS]]
+**CCRAGALS** (Comités Consultatifs Régionaux de l'Aviation Générale et de l'Aviation Légère et Sportive) : sont chargés d'émettre un avis sur les projets de création, modification ou suppression, de zones aériennes.
+
 [[DIREX]]
 **DIREX** (DIRecteur des EXercices) : Responsable de l'activation ou non d'une zone temporaire (d'exercice).
 C'est la personne à contacter avant d'aller voler dans un secteur concerné par une {ZRT} ou un {RTBA} par exemple.
+
+[[DGAC]]
+**DGAC** (Direction Générale de l'Aviation Civile) : autorité nationale responsable de la réglementation et de la sécurité de l'aviation civile en France.
+
+[[DSAC]]
+**DSAC** (Direction de la Sécurité de l'Aviation Civile) :  un service à compétence nationale rattaché à la {DGAC}, elle-même rattachée au ministère de l'Écologie. Elle est organisée en directions interrégionales (la DSAC Sud pour l'Occitanie par exemple).
+
+[[FL]]
 
 [[FL115]]
 **FL115** (🇬🇧 _Flight Level 115_) : niveau de vol 115, soit une altitude de 11 500 pieds (environ 3510 m) au-dessus du niveau moyen de la mer.

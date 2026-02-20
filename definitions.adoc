@@ -5,20 +5,26 @@
 :icons: font
 :numbered:
 :toc-title: Table des matières
+:experimental:
 
 // Personnes et lieux et outils
-:referentemail:jbruel@gmail.com
-:referent: mailto:{referent}[Jean-Michel Bruel]
+:referentemail: jbruel@gmail.com
+:referent: mailto:{referentemail}[Jean-Michel Bruel]
+:pascal: mailto:pascal.wi@orange.fr[Pascal Wisniewski]
 :tuchan: https://federation.ffvl.fr/terrain/677[Tuchan]
 :spotair: https://www.spotair.mobi/[SpotAir]
+:earth: https://earth.google.com/web[Google Earth]
 
 // Acronymes
 :AIP: <<AIP, AIP>>
 :ASFC: <<ASFC, ASFC>>
 :ASML: <<ASML, ASML>>
+:CNFAS: <<CNFAS, CNFAS>>
 :CTR: <<CTR, CTR>>
 :D: <<Classe, D>>
 :DIREX: <<DIREX,DIREX>>
+:DGAC: <<DGAC, DGAC>>
+:DSAC: <<DSAC, DSAC>>
 :FL115: <<FL115, FL115>>
 :G: <<Classe, G>>
 :GP: <<GP, GP>>

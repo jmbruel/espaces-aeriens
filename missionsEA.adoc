@@ -1,0 +1,116 @@
+= Les missions du référent Espaces Aériens
+ifndef::full[]
+Jean-Michel Bruel -- Référent Espaces Aériens CDVL11 
+include::definitions.adoc[]
+endif::[]
+
+== Traitement des consultations
+
+=== Fonctionnement des consultations
+
+La {DSAC} diffuse par mail aux utilisateurs de l'espace aérien (différents services de l'aviation civile, gestionnaires de la circulation aérienne militaire, référents EA des différentes fédérations aéronautiques sportives et de loisir) des consultations concernant des modifications temporaires d'espace aérien. 
+Il s'agit généralement de la création de {ZRT} (ou dangereuse, ou encore d'informations concernant une zone) :
+
+* par {SUPAIP}, lorsque la ou les zones créées sont complexes (forme de la zone différente d'un cercle et/ou qu'il y a la création de plusieurs zones) ;
+* par {NOTAM}, lorsque la zone est simple (ronde) et unique.
+
+Pour chacune de ces consultations, l'ensemble des destinataires (dont les référents EA des différentes fédérations aéronautiques sportives et de loisir) donne un avis purement consultatif sur le projet de {SUPAIP}/{NOTAM}, dans un délai indiqué dans le mail adressé par la DGAC :
+
+* Si le projet n'a pas d'impact sur notre activité, un simple mail de réponse « Vu pour la FFVL » suffit. Dans la pratique, il est bon d'attendre (sans dépasser le délai de réponse) les réactions éventuelles d'autres fédérations (si elles ont des remarques légitimes, il peut être bon de leur apporter notre soutien par solidarité) ;
+* Si le projet a un impact significatif sur notre activité, il convient d'expliquer l'importance de la gêne et de proposer des solutions de compromis pour minimiser celle-ci (emprise, plancher/plafond, horaire d'activation, période, mode d'information sur l'activation, ...). La majorité des {SUPAIP} concerne des exercices militaires. Du fait de leur envergure ou de leur absolue nécessité (au strict jugement des militaires), certaines consultations ne laissent pas ou peu de marge à la négociation. À force d'expérience, on arrive à évaluer les consultations où ça vaut le coup ou pas de se battre.
+* La réponse à la consultation peut être adressée soit uniquement à la {DGAC} (Répondre), soit à l'ensemble des destinataires de la Consultation (Répondre à tous) … d'un côté, il a été demandé par le {CNFAS} de répondre systématiquement à tous, mais d'un autre côté, certains destinataires se sont plaint du volume trop important de mails engendré par cette méthode.
+Personnellement, je réponds uniquement à la {DGAC} quand il n'y a pas d'impact pour notre activité, et à tous quand on émet des remarques.
+* En cas de modification sur le projet, une nouvelle consultation est lancée avec la nouvelle version du projet.
+
+=== Analyse des consultations
+
+Le but est d'estimer la gène que génère pour le vol libre les espaces temporaires projetés, tant pour les activités loisir, compétitions que professionnelles, puis le cas échéant, tenter de négocier pour minimiser la gêne.
+
+Les documents concernant des projets de {NOTAM}s sont toujours cours, et il est sont assez rapides à traiter. 
+Ce n'est pas le cas des {SUPAIP}, qui peuvent être lourds à analyser. 
+Voici la procédure utilisée par {pascal} :
+
+* Ouvrir le document du projet de {SUPAIP}
+* Considérer la *période concernée* (en tête de la présentation du projet). L'hiver, c'est bien moins impactant, mais penser quand même à l'activité professionnelle en station de ski.
+* Considérer la *durée* du {SUPAIP}
+* Deux paramètres permettant d'exclure toute gène :
+** Consulter les *horaires* : dans le document du {SUPAIP}, faire une recherche sur DATES ET HEURES D'ACTIVITÉ et parcourir toutes les occurrences (certains exercices se déroulent uniquement de nuit et n'engendrent donc aucune gène). Parfois (gros exercices), l'activation des différentes zones est présentée sous la forme d'un tableau.
+** Consulter la/les cartes faisant figurer les différentes zones et considérer *l'altitude des différentes zones* (Plancher/Plafond). Certains exercices se déroulent en moyenne ou haute altitude et n'impacte pas le vol libre (> FL115 en plaine et > Plaf LTA en montagne). 
+* Évaluation de l'impact des zones. Pour avoir une vision plus précise, une solution est de convertir la définition des zones du {SUPAIP} au format `KLM` pour pouvoir les voir dans {earth} avec des infos complémentaires (sites de vol, chevelus des vols, limite départements, EA). Cette méthode est plutôt lourde, surtout quand il y a de nombreuses zones. J'ai espoir de faire développer une petite moulinette qui se chargerait de faire ce boulot de manière automatisé. 
+
+=== Google Earth
+
+==== Conversion des zones figurant dans le SUPAIP en fichier pour Google Earth (KML) :
+
+* Pour chaque zone figurant dans le {SUPAIP} :
+** Copier la définition des limites latérales de la zone :
++
+[[brivair]]
+[.bordered]
+.Exemple de définition des limites latérales d'une zone dans un {SUPAIP} (partie surlignée en bleu) :
+image::brivair.png[Exemple de définition des limites latérales d'une zone dans un SUPAIP, 95%, alt="Exemple de définition des limites latérales d'une zone dans un SUPAIP"]
++
+** Aller sur le site http://www.pap08.eu/ZA/volume-aerien.php
+** Coller la définition des limites latérales dans le champ « 1 : Entrée les données »
+** Cliquer sur le bouton « 2: Convertir (Click) » … si le contenu du champ « 3: Vérifier s'il n'y a pas de fautes » est tout en vert, c'est qu'il n'y a pas d'erreur … s'il y a du rouge, c'est que la conversion a provoqué une erreur en raison d'un format des données inadapté : le point d'interrogation à droite de « 1 : Entrée les données » présente les formats corrects. Les erreurs classiques :
+*** Un zéro figurant en tête de la latitude
+*** Des guillemets (pour les minutes et secondes) qui n'en sont pas (apostrophes au
+lieu de guillemets)
+*** Des espaces en trop
+*** Dans la définition d'arcs horaires, souvent des erreurs de structure
+** En bas de page remplir les champs :
+*** Nom de la carte : saisir le nom de la {ZRT} (exemple : ZRT BRIVAIR, comme illustré sur la figure <<brivair,ci-dessus>>)
+*** Nom de la zone : idem
+*** Description : saisir les limites verticales de la zone (exemple : FL115 * FL195)
+*** Sélectionner la couleur de la zone … perso, je choisis si possible la même couleur que celle figurant dans le {SUPAIP}
+*** Ne pas remplir les altitudes (on mets tout au niveau du sol dans {earth})
+*** Cliquer sur le bouton « 4: Création KML et KMZ (click) » => le fichier `KLM` de la zone est créé et téléchargé.
+
+==== Affichage des zones dans Google Earth :
+
+* Se positionner dans le dossier « Lieux temporaires »
+* Créer un dossier du nom de l'exercice (ou de l'activité)
+* Ouvrir les fichier `KML` générés précédemment : menu:Fichier[Ouvrir > Sélectionner le dossier]
+où on été téléchargés les fichier `KML` puis les sélectionner et valider
+* Déplacer les zones importées dans le dossier du nom de l'exercice précédemment créé (le but étant que ça ne devienne pas le bazar !)
+
+==== Visualisation globale :
+
+* Le fichier `CarteComplete2024.kmz` (dispoinble link:cartes/CarteComplete2024.kmz[ici]) contient :
+** les limites des départements Occitanie (permet de voir si une zone concerne ou pas
+l'Occitanie)
+** les sites de vol (un vieux fichier, il n'y en a pas de récent à disposition)
+** le chevelu des trace de cross (extrait du site https://thermal.kk7.ch/)
+** les espaces aériens (Données Pascal Bazile datant de 2023)
+* Si pas déjà fait, ouvrir le fichier `CarteComplete2024.kmz` (dispoinble link:cartes/CarteComplete2024.kmz[ici]) et activer l'affichage des « Départements Occitanie », « sites », « ThermalMaps > Skyways ». L'affichage simultanée de toutes ces informations permets d'évaluer l'impact des différentes zones et éventuellement d'envisager des solutions à proposer en réponse à la consultation pour en minimiser l'impact.
++
+TIP: En cas de difficulté à évaluer l'impact réel des zones, s'adresser aux référents EA du/des départements concernés pour avoir un avis (avec un petit message avec les données essentielle de la consultation, comme les période et horaires d'activation + carte des zones).
+
+IMPORTANT: Dans le {SUPAIP}, il est important de consulter la partie DISPOSITIONS PARTICULIÈRES (ou DISPOSITIONS COMPLEMENTAIRES) car il peut y avoir des infos importantes (activation de zones permanentes simultanément à l'exercice entre autres).
+
+=== Échanges préalable / diffusion
+
+Des échanges avec les référents EA départementaux ont eu lieu tout au cours de l'année pour :
+
+* les consulter en amont des {CCRAGALS} pour analyse des saisines présentées ;
+* les consulter sur les projets de SUP AIP et de NOTAM ;
+* leur transmettre des alertes concernant les SUP AIP et NOTAM quelques jours avant la date de début pour diffusion aux utilisateurs.
+
+== Participation aux CCRAGALS
+
+Le {CCRAGALS} réunit 2 fois par an (printemps et automne) une assemblée d'utilisateurs de l'espace aérien (civil, militaire, fédérations utilisatrices, …) pour donner leurs avis sur des demandes de modifications permanentes de l'espace aérien (saisines).
+
+== Traitement de dossiers spécifiques
+
+* Compétition / Amicale : demande à la {DSAC} de création de {ZRT} ou {NOTAM} Information
+* Diffusion information sur le passage du Tour de France
+* Problématiqu EA diverses (pénétration EA, conflit d'usage, ...)
+
+//======================== Annexes pour la version Tuchan seul ========================
+ifndef::full[]
+
+:numbered!:
+[appendix]
+include::acronymes.adoc[leveloffset=+1]
+
+endif::[]
