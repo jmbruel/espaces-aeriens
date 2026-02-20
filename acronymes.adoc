@@ -8,10 +8,10 @@ Ce sont des données "permanentes", mais peuvent être modifiés.
 D'où les {SUPAIP} (Suppléments à l'AIP) qui sont des informations temporaires qui s'ajoutent à l'AIP.
 
 [[AMSL]]
-**AMSL** (🇬🇧 Above Mean Sea Level) : altitude au-dessus du niveau moyen de la mer (précision sur une altitude).
+**AMSL** (🇬🇧 _Above Mean Sea Level_) : altitude au-dessus du niveau moyen de la mer (précision sur une altitude).
 
 [[ASFC]]
-**ASFC** (🇬🇧 Above SurFaCe) : altitude au-dessus du relief (précision sur une altitude).
+**ASFC** (🇬🇧 _Above SurFaCe_) : altitude au-dessus du relief (précision sur une altitude).
 
 [[Classe]]
 **Classe** de zone aérienne : classification des espaces aériens selon les règles de vol et les services de contrôle aérien applicables. Les classes vont de A à G, chaque classe ayant des règles spécifiques pour les pilotes de vol libre (cf. tableau ci-dessous). Le plus simple à retenir est que les classes A, B, C et D sont interdites au vol libre.
@@ -39,8 +39,6 @@ C'est la personne à contacter avant d'aller voler dans un secteur concerné par
 
 [[DSAC]]
 **DSAC** (Direction de la Sécurité de l'Aviation Civile) :  un service à compétence nationale rattaché à la {DGAC}, elle-même rattachée au ministère de l'Écologie. Elle est organisée en directions interrégionales (la DSAC Sud pour l'Occitanie par exemple).
-
-[[FL]]
 
 [[FL115]]
 **FL115** (🇬🇧 _Flight Level 115_) : niveau de vol 115, soit une altitude de 11 500 pieds (environ 3510 m) au-dessus du niveau moyen de la mer.
@@ -76,7 +74,7 @@ Lorsque la zone est active, il est bien entendu absolument interdit d’y péné
 Elles décrivent les procédures VFR (entrée/sortie de circuit, fréquences, altitude de circuit, QFU, points de report, obstacles, etc.) de chaque aérodrome français.
 
 [[VFR]]
-**VFR** (Visual Flight Rules) : règles de vol à vue, utilisées pour les vols en conditions météorologiques favorables.
+**VFR** (🇬🇧 _Visual Flight Rules_) : règles de vol à vue, utilisées pour les vols en conditions météorologiques favorables.
 
 [[ZRT]]
 **ZRT** (Zone Règlementée Temporaire) : zone interdite au vol libre, mais autorisée pour les vols spécifiques (ex: exercices militaires).
