@@ -51,8 +51,8 @@ Voici la procédure utilisée par {pascal} :
 image::brivair.png[Exemple de définition des limites latérales d'une zone dans un SUPAIP, 95%, alt="Exemple de définition des limites latérales d'une zone dans un SUPAIP"]
 +
 ** Aller sur le site http://www.pap08.eu/ZA/volume-aerien.php
-** Coller la définition des limites latérales dans le champ « 1 : Entrée les données »
-** Cliquer sur le bouton « 2: Convertir (Click) » … si le contenu du champ « 3: Vérifier s'il n'y a pas de fautes » est tout en vert, c'est qu'il n'y a pas d'erreur … s'il y a du rouge, c'est que la conversion a provoqué une erreur en raison d'un format des données inadapté : le point d'interrogation à droite de « 1 : Entrée les données » présente les formats corrects. Les erreurs classiques :
+** Coller la définition des limites latérales dans le champ `1 : Entrer les données`
+** Cliquer sur le bouton `2 : Convertir (Click)`. Si le contenu du champ `3: Vérifier s'il n'y a pas de fautes` est tout en vert, c'est qu'il n'y a pas d'erreur. S'il y a du rouge, c'est que la conversion a provoqué une erreur en raison d'un format des données inadapté : le point d'interrogation à droite de « 1 : Entrée les données » présente les formats corrects. Les erreurs classiques :
 *** Un zéro figurant en tête de la latitude
 *** Des guillemets (pour les minutes et secondes) qui n'en sont pas (apostrophes au
 lieu de guillemets)
@@ -76,13 +76,13 @@ où on été téléchargés les fichier `KML` puis les sélectionner et valider
 
 ==== Visualisation globale :
 
-* Le fichier `CarteComplete2024.kmz` (dispoinble link:cartes/CarteComplete2024.kmz[ici]) contient :
+* Le fichier `CarteComplete2024.kmz` (disponible link:cartes/CarteComplete2024.kmz[ici]) contient :
 ** les limites des départements Occitanie (permet de voir si une zone concerne ou pas
 l'Occitanie)
 ** les sites de vol (un vieux fichier, il n'y en a pas de récent à disposition)
 ** le chevelu des trace de cross (extrait du site https://thermal.kk7.ch/)
 ** les espaces aériens (Données Pascal Bazile datant de 2023)
-* Si pas déjà fait, ouvrir le fichier `CarteComplete2024.kmz` (dispoinble link:cartes/CarteComplete2024.kmz[ici]) et activer l'affichage des « Départements Occitanie », « sites », « ThermalMaps > Skyways ». L'affichage simultanée de toutes ces informations permets d'évaluer l'impact des différentes zones et éventuellement d'envisager des solutions à proposer en réponse à la consultation pour en minimiser l'impact.
+* Si pas déjà fait, ouvrir le fichier `CarteComplete2024.kmz` (disponible link:cartes/CarteComplete2024.kmz[ici]) et activer l'affichage des « Départements Occitanie », « sites », « ThermalMaps > Skyways ». L'affichage simultanée de toutes ces informations permets d'évaluer l'impact des différentes zones et éventuellement d'envisager des solutions à proposer en réponse à la consultation pour en minimiser l'impact.
 +
 TIP: En cas de difficulté à évaluer l'impact réel des zones, s'adresser aux référents EA du/des départements concernés pour avoir un avis (avec un petit message avec les données essentielle de la consultation, comme les période et horaires d'activation + carte des zones).
 
@@ -104,7 +104,7 @@ Le {CCRAGALS} réunit 2 fois par an (printemps et automne) une assemblée d'util
 
 * Compétition / Amicale : demande à la {DSAC} de création de {ZRT} ou {NOTAM} Information
 * Diffusion information sur le passage du Tour de France
-* Problématiqu EA diverses (pénétration EA, conflit d'usage, ...)
+* Problématique EA diverses (pénétration EA, conflit d'usage, ...)
 
 //======================== Annexes pour la version Tuchan seul ========================
 ifndef::full[]

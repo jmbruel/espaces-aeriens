@@ -22,7 +22,8 @@ image::classes.png[Classes d'espaces aériens, 95%, alt="Tableau récapitulatif 
 TIP: Dans le milieu de l'aviation, ces classes sont désignées par l'alphabet international (Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf).
 
 [[CNFAS]]
-**CNFAS** (https://cnfas.fr/[Comité National des Fédérations de l'Aviation Sportive]) : comité national chargé de représenter les intérêts des sports aériens auprès des autorités aéronautiques et de coordonner les actions des différentes fédérations sportives aériennes.
+**CNFAS** (Comité National des Fédérations de l'Aviation Sportive) : comité national chargé de représenter les intérêts des sports aériens auprès des autorités aéronautiques et de coordonner les actions des différentes fédérations sportives aériennes.
+Site: https://cnfas.fr/.
 
 [[CTR]]
 **CTR** (🇬🇧 _Controlled Traffic Region_) : zone de contrôle aérienne autour d'un aérodrome, interdite au vol libre.
@@ -39,6 +40,10 @@ C'est la personne à contacter avant d'aller voler dans un secteur concerné par
 
 [[DSAC]]
 **DSAC** (Direction de la Sécurité de l'Aviation Civile) :  un service à compétence nationale rattaché à la {DGAC}, elle-même rattachée au ministère de l'Écologie. Elle est organisée en directions interrégionales (la DSAC Sud pour l'Occitanie par exemple).
+
+[[FFVL]]
+**FFVL** (Fédération Française de Vol Libre] : fédération sportive française qui regroupe les pratiquants de vol libre (parapente, deltaplane, etc.) et représente leurs intérêts auprès des autorités aéronautiques.
+Site : https://federation.ffvl.fr/.
 
 [[FL115]]
 **FL115** (🇬🇧 _Flight Level 115_) : niveau de vol 115, soit une altitude de 11 500 pieds (environ 3510 m) au-dessus du niveau moyen de la mer.
@@ -61,7 +66,8 @@ Lorsque la zone est active, il est bien entendu absolument interdit d’y péné
 **RTBA** (Réseau Très Basse Altitude) : réseau de zones d'entraînement de la Défense nationale.
 
 [[SIA]]
-**SIA** (Service d'Information Aéronautique) : service de l'aviation civile qui fournit les cartes aéronautiques et les informations sur les espaces aériens. Site : https://www.sia.aviation-civile.gouv.fr/.
+**SIA** (Service d'Information Aéronautique) : service de l'aviation civile qui fournit les cartes aéronautiques et les informations sur les espaces aériens. 
+Site : https://www.sia.aviation-civile.gouv.fr/.
 
 [[SUPAIP]]
 **Sup AIP** (🇬🇧 _Supplement to Aeronautical Information Publication_) Suppléments à une {AIP}, notamment pour mettre à jour par exemple des horaires et dates d'activation.
@@ -77,6 +83,6 @@ Elles décrivent les procédures VFR (entrée/sortie de circuit, fréquences, al
 **VFR** (🇬🇧 _Visual Flight Rules_) : règles de vol à vue, utilisées pour les vols en conditions météorologiques favorables.
 
 [[ZRT]]
-**ZRT** (Zone Règlementée Temporaire) : zone interdite au vol libre, mais autorisée pour les vols spécifiques (ex: exercices militaires).
+**ZRT** (Zone Réglementée Temporaire) : zone interdite au vol libre, mais autorisée pour les vols spécifiques (ex: exercices militaires).
 
 
