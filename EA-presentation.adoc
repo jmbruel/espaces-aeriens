@@ -1,0 +1,75 @@
+= Les Espaces Aériens
+ifndef::full[]
+Jean-Michel Bruel -- Référent Espaces Aériens CDVL11 
+include::definitions.adoc[]
+endif::[]
+
+== Contexte
+
+=== Pourquoi des règles
+
+- éviter les abordages
+- protéger les zones sensibles (parcs naturels, zones d'entraînement de la Défense nationale, etc.)
+- protéger les activités professionnelles (aéroports, stations de ski, etc.)
+- protéger les activités de loisir (sites de vol, etc.)
+- protéger les compétitions (zones de compétition, etc.)
+
+=== Organismes
+
+En terme de règles {OACI} puis EASA puis DGAC (pour le civil) DIRCAM (pour le militaire)
+
+Dans la DGAC (7400 personne) :
+
+CRNA (haute altitude)
+ATS (approche des aérodromes)
+Tour de contrôle
+
+=== VFR vs IFR
+
+Voir ét éviter
+
+Nous PUL => VFR
+
+Aucune obligation autre que la RCA.
+
+Mais commandant de bord => préparer ses vols.
+
+=== Les cartes
+
+https://cartes.gouv.fr/explorer-les-cartes/
+
+FIR
+
+== Les espaces permanents
+
+
+== Les espaces temporaires
+
+SIA -> eaip -> 5.1 dans le menu eAIP puis CTRL F pour trouver la zone qui nous intéresse.
+Exemple sur les zones R 46 de Argeliers (les aprem sont tranquilles).
+
+
+Pour les RTBA : Carte AZBA (aussi SIA)
+
+stac aviation civile pour voire les ZSM (Zones de Sensibilité Majeur)
+
+Zones à statuts particuliers
+
+ZRT, ZIT, pas sur les cartes => consulter les {NOTAM} ou les {SupAIP}.
+
+Exemple de la ZRT Albi-Gaillac : https://www.sia.aviation-civile.gouv.fr/media/store/documents/file/l/f/lf_sup_2026_012_fr.pdf
+
+Sofia briefing pour préparer son vol.
+
+NOTAM plus à jour que les supaip (d'où "trigger -sup aip")
+
+Dominique Menadier à contacter pour la zone de Pamiers.
+
+//======================== Annexes pour la version Tuchan seul ========================
+ifndef::full[]
+
+:numbered!:
+[appendix]
+include::acronymes.adoc[leveloffset=+1]
+
+endif::[]

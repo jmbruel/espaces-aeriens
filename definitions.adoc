@@ -30,6 +30,7 @@
 :G: <<Classe, G>>
 :GP: <<GP, GP>>
 :NOTAM: <<NOTAM, NOTAM>>
+:OACI: <<OACI, OACI>>
 :PUL: <<PUL, PUL>>
 :TMA: <<TMA, TMA>>
 :R: <<R, R>>

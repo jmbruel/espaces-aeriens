@@ -13,6 +13,10 @@ D'où les {SUPAIP} (Suppléments à l'AIP) qui sont des informations temporaires
 [[ASFC]]
 **ASFC** (🇬🇧 _Above SurFaCe_) : altitude au-dessus du relief (précision sur une altitude).
 
+[[CFD]]
+**CFD** 
+
+
 [[Classe]]
 **Classe** de zone aérienne : classification des espaces aériens selon les règles de vol et les services de contrôle aérien applicables. Les classes vont de A à G, chaque classe ayant des règles spécifiques pour les pilotes de vol libre (cf. tableau ci-dessous). Le plus simple à retenir est que les classes A, B, C et D sont interdites au vol libre.
 
@@ -54,12 +58,15 @@ Site : https://federation.ffvl.fr/.
 [[NOTAM]]
 **NOTAM** (🇬🇧 _NOtice To AirMen_) : avis aux aviateurs publié par les autorités aéronautiques pour informer les pilotes des conditions temporaires ou permanentes affectant la navigation aérienne.
 
+[[OACI]]
+**OACI** (Organisation de l'Aviation Civile Internationale) : agence spécialisée des Nations Unies qui établit les normes et les réglementations pour l'aviation civile internationale.
+
 [[PUL]]
-**PUL** (Planeur Ultra-Léger) : C'est notre catégirie d'aéronaef.
+**PUL** (Planeur Ultra-Léger) : C'est notre catégorie d’aéronef.
 Pour y appartenir, il faut décoller avec la seule force musculaire, faire moins de 250 kg et être non motorisé.
 
 [[R]]
-**R** (Réglementée ou 🇬🇧 _Restricted_) : Il s'agit typiquement des zones d'entrainement de la Défense nationale. Cf. {RTBA} et {ZRT}. 
+**R** (Réglementée ou 🇬🇧 _Restricted_) : Il s'agit typiquement des zones d’entraînement de la Défense nationale. Cf. {RTBA} et {ZRT}. 
 Lorsque la zone est active, il est bien entendu absolument interdit d’y pénétrer. 
 
 [[RTBA]]
