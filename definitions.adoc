@@ -8,13 +8,14 @@
 :experimental:
 
 // Personnes et lieux et outils
+:earth: https://earth.google.com/web[Google Earth]
+:pascal: mailto:pascal.wi@orange.fr[Pascal Wisniewski]
 :referentemail: jbruel@gmail.com
 :referent: mailto:{referentemail}[Jean-Michel Bruel]
-:pascal: mailto:pascal.wi@orange.fr[Pascal Wisniewski]
-:tuchan: https://federation.ffvl.fr/terrain/677[Tuchan]
 :spotair: https://www.spotair.mobi/[SpotAir]
-:earth: https://earth.google.com/web[Google Earth]
+:tuchan: https://federation.ffvl.fr/terrain/677[Tuchan]
 :zeldaude: https://federation.ffvl.fr/structure/904[Zeld'Aude]
+
 // Acronymes
 :AIP: <<AIP, AIP>>
 :ASFC: <<ASFC, ASFC>>

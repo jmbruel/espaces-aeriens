@@ -1,11 +1,13 @@
 = Comment savoir si j'approche d'un espace aérien réglementé, interdit ou dangereux ?               
 ifndef::full[]
-Denis Chardon -- Référent Espaces Aériens Zeld'Aude 
+Denis Chardon -- Référent Espaces Aériens Zeld'Aude & JMB
 include::definitions.adoc[]
 endif::[]
 ifdef::full[]
 NOTE: Merci à Denis Chardon -- Référent Espaces Aériens {zeldaude} pour cette partie de la FAQ. 
 endif::[]
+
+IMPORTANT: Avant tout, vous ne devriez pas être dans cette situation. La préparation de votre vol doit vous permettre d'éviter de vous approcher d'un espace aérien réglementé, interdit ou dangereux.
 
 == Nos instruments de navigation
 
