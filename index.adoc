@@ -1,4 +1,8 @@
 = FAQ - Espaces Aériens
+Jean-Michel Bruel -- Référent Espaces Aériens CDVL11
+jbruel@gmail.com
+version: {localdate}
+
 include::definitions.adoc[]
 :full:
 
