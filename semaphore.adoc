@@ -1,12 +1,32 @@
-= Signaux visuels en cas d'approche d'un espace aérien réglementé
+= Comment savoir si j'approche d'un espace aérien réglementé, interdit ou dangereux ?               
 ifndef::full[]
 Denis Chardon -- Référent Espaces Aériens Zeld'Aude 
 include::definitions.adoc[]
 endif::[]
 ifdef::full[]
-NOTE: Merci à Denis Chardon -- Référent Espaces Aériens Zeld'Aude pour cette partie de la FAQ. 
+NOTE: Merci à Denis Chardon -- Référent Espaces Aériens {zeldaude} pour cette partie de la FAQ. 
 endif::[]
 
+== Nos instruments de navigation
+
+=== Varios
+
+Sur la plupart des varios modernes il est possible d'obtenir une alerte.
+Il faut se renseigner dans la notice de son appareil pour savoir comment faire.
+
+Voici un exemple pour un Nav'XL de chez Syride :
+
+[.bordered]
+.Alerte d'approche d'un espace aérien réglementé sur un Nav'XL
+image::syride-alerte.png[Nav'XL, 95%, alt="Nav'XL"]
+
+=== Tablettes et smartphones
+
+Si vous êtes équipés d'une tablette ou d'un smartphone, vous pouvez utiliser des applications de navigation aérienne qui intègrent les cartes aéronautiques et les informations sur les espaces aériens.
+
+IMPORTANT: À compléter...
+
+== Signaux visuels 
 
 Certains sites réglementés, interdits ou dangereux sont équipés de signaux visuels pour avertir les aéronefs qui s'approchent de ces zones. 
 Ces signaux sont utilisés pour indiquer aux pilotes qu'ils volent sans autorisation dans une zone réglementée, interdite ou dangereuses ou qu'ils sont sur le point de pénétrer dans une telle zone.
