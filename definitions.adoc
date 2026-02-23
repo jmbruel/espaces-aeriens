@@ -35,6 +35,7 @@
 :TMA: <<TMA, TMA>>
 :R: <<R, R>>
 :RTBA: <<RTBA, RTBA>>
+:SERA: <<SERA, SERA>>
 :SIA: <<SIA, SIA>>
 :SUPAIP: <<SUPAIP, Sup AIP>>
 :VAC: <<VAC, VAC>>

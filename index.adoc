@@ -17,6 +17,7 @@ include::casSurvol.adoc[leveloffset=+2]
 include::aerodromes.adoc[leveloffset=+2]
 include::notam.adoc[leveloffset=+2]
 include::activation.adoc[leveloffset=+2]
+include::semaphore.adoc[leveloffset=+2]
 
 == Questions Générales
 

@@ -1,0 +1,33 @@
+= Signaux visuels en cas d'approche d'un espace aérien réglementé
+ifndef::full[]
+Denis Chardon -- Référent Espaces Aériens Zeld'Aude 
+include::definitions.adoc[]
+endif::[]
+ifdef::full[]
+NOTE: Merci à Denis Chardon -- Référent Espaces Aériens Zeld'Aude pour cette partie de la FAQ. 
+endif::[]
+
+
+Certains sites réglementés, interdits ou dangereux sont équipés de signaux visuels pour avertir les aéronefs qui s'approchent de ces zones. 
+Ces signaux sont utilisés pour indiquer aux pilotes qu'ils volent sans autorisation dans une zone réglementée, interdite ou dangereuses ou qu'ils sont sur le point de pénétrer dans une telle zone.
+
+[.bordered]
+.Signaux visuels en cas d'approche d'un espace aérien réglementé (source : le {SERA})
+image::semaphore.png[Signaux visuels, 95%, alt="Signaux visuels"]
+
+[NOTE]
+====
+Ces signaux peuvent émaner de différentes sources, telles que des installations au sol, des aéronefs ou des systèmes de contrôle aérien.
+
+.Exemples de signaux visuels
+image::semaphore2.png[Exemples de signaux visuels, 95%, alt="Exemples de signaux visuels"]
+====
+
+//======================== Annexes pour la version Tuchan seul ========================
+ifndef::full[]
+
+:numbered!:
+[appendix]
+include::acronymes.adoc[leveloffset=+1]
+
+endif::[]
