@@ -3,9 +3,6 @@ ifndef::full[]
 Denis Chardon -- Référent Espaces Aériens Zeld'Aude & JMB
 include::definitions.adoc[]
 endif::[]
-ifdef::full[]
-NOTE: Merci à Denis Chardon -- Référent Espaces Aériens {zeldaude} pour cette partie de la FAQ. 
-endif::[]
 
 IMPORTANT: Avant tout, vous ne devriez pas être dans cette situation. La préparation de votre vol doit vous permettre d'éviter de vous approcher d'un espace aérien réglementé, interdit ou dangereux.
 
@@ -29,6 +26,8 @@ Si vous êtes équipés d'une tablette ou d'un smartphone, vous pouvez utiliser 
 IMPORTANT: À compléter...
 
 == Signaux visuels 
+
+NOTE: Merci à Denis Chardon -- Référent Espaces Aériens {zeldaude} pour cette partie de la FAQ. 
 
 Certains sites réglementés, interdits ou dangereux sont équipés de signaux visuels pour avertir les aéronefs qui s'approchent de ces zones. 
 Ces signaux sont utilisés pour indiquer aux pilotes qu'ils volent sans autorisation dans une zone réglementée, interdite ou dangereuses ou qu'ils sont sur le point de pénétrer dans une telle zone.
