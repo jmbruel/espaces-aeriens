@@ -27,6 +27,7 @@
 :DIREX: <<DIREX,DIREX>>
 :DGAC: <<DGAC, DGAC>>
 :DSAC: <<DSAC, DSAC>>
+:FFVL: <<FFVL, FFVL>>
 :FL115: <<FL115, FL115>>
 :G: <<Classe, G>>
 :GP: <<GP, GP>>

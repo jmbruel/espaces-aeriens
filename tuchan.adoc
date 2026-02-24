@@ -6,7 +6,7 @@ endif::[]
 
 == Le site de Tuchan
 
-Le décolage et l'atterrissage de {tuchan} se situent dans une zone de classe {D} : une {TMA}.
+Le décollage et l'atterrissage de {tuchan} se situent dans une zone de classe {D} : une {TMA}.
 Ce qui implique certaines règles de survol.
 
 Il faut donc consulter les cartes aéronautiques (sur le {SIA}), ou utiliser une application mobile spécialisée, comme {spotair} pour connaître les règles applicables.
@@ -16,6 +16,8 @@ Le site de la FFVL dédié à {tuchan} fournit des informations utiles :
 [.bordered]
 .Les informations sur le site de la FFVL
 image::tuchan-ffvl.png[Informations sur le site de Tuchan, 95%, alt="Informations sur le site de Tuchan"]
+
+WARNING: Les informations sur les espaces aériens ne sont pas nécessairement à jour sur le site de la {FFVL}. Les seules références sont les cartes aéronautiques disponible sur le site du {SIA}. En l'occurence, au moment où cette capture d'écran a été réalisée il est fait mention d'une FL75 (2250 m) quand on s'éloigne de la {TMA} vers le Nord Ouest, alors que la carte aéronautique n'indique aucune classe (donc une classe {G}) et donc un plafond à {FL115} (3510 m environ).
 
 == Exemple sur SpotAir 
 
@@ -45,7 +47,7 @@ En cliquant dans l'application {SpotAir} sur les différentes zones, on obtient 
 =====
 image:2limites.png[Limites basses, 30%, alt="Limites basses"]
 
-Quand la cartouche mentionne 2 chiffres en zone basse (exemple : 1500 ft ASFC / 2000 ft), cela signifie que la limite basse de la zone est la plus haute des deux valeurs.
+Quand la cartouche mentionne 2 chiffres en zone basse (exemple : 1500 ft ASFC / 2000 ft), cela signifie que la limite basse de la zone est la plus haute des deux valeurs (la plus favorable pour nous).
 Ce qui est logique si on imagine une zone suivant le relief.
 Pour plus de détails concernant la lecture des cartouches et des cartes, consultez link:docs/legend.pdf[ce document].
 
@@ -63,7 +65,7 @@ NOTE: Les informations sur les sites de vol libre sont un peu difficiles à obte
 
 == C'est plus facile en 3D
 
-Vous pouvez aussi télécharger les cartes aéronautiques et les visualiser en 3D avec {GoogleEarth}.
+Vous pouvez aussi télécharger les cartes aéronautiques et les visualiser en 3D avec {earth}.
 
 .Tuchan depuis Google Earth
 image::tuchan3D.png[Tuchan depuis Google Earth, 95%, alt="Tuchan depuis Google Earth"]

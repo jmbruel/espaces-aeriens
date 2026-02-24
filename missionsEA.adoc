@@ -43,27 +43,34 @@ Voici la procédure utilisée par {pascal} :
 ==== Conversion des zones figurant dans le SUPAIP en fichier pour Google Earth (KML) :
 
 * Pour chaque zone figurant dans le {SUPAIP} :
-** Copier la définition des limites latérales de la zone :
+. Copier la définition des limites latérales de la zone :
 +
 [[brivair]]
 [.bordered]
 .Exemple de définition des limites latérales d'une zone dans un {SUPAIP} (partie surlignée en bleu) :
 image::brivair.png[Exemple de définition des limites latérales d'une zone dans un SUPAIP, 95%, alt="Exemple de définition des limites latérales d'une zone dans un SUPAIP"]
 +
-** Aller sur le site http://www.pap08.eu/ZA/volume-aerien.php
-** Coller la définition des limites latérales dans le champ `1 : Entrer les données`
-** Cliquer sur le bouton `2 : Convertir (Click)`. Si le contenu du champ `3: Vérifier s'il n'y a pas de fautes` est tout en vert, c'est qu'il n'y a pas d'erreur. S'il y a du rouge, c'est que la conversion a provoqué une erreur en raison d'un format des données inadapté : le point d'interrogation à droite de `1 : Entrer les données` présente les formats corrects. Les erreurs classiques :
-*** Un zéro figurant en tête de la latitude
-*** Des guillemets (pour les minutes et secondes) qui n'en sont pas (apostrophes au lieu de guillemets)
-*** Des espaces en trop
-*** Dans la définition d'arcs horaires, souvent des erreurs de structure
-** En bas de page remplir les champs :
-*** Nom de la carte : saisir le nom de la {ZRT} (exemple : ZRT BRIVAIR, comme illustré sur la figure <<brivair,ci-dessus>>)
-*** Nom de la zone : idem
-*** Description : saisir les limites verticales de la zone (exemple : FL115 * FL195)
-*** Sélectionner la couleur de la zone (si possible la même couleur que celle figurant dans le {SUPAIP})
-*** Ne pas remplir les altitudes (on met tout au niveau du sol dans {earth})
-*** Cliquer sur le bouton `4: Création KML et KMZ (click)` : le fichier `KLM` de la zone est créé et téléchargé.
+. Aller sur le site http://www.pap08.eu/ZA/volume-aerien.php
+. Coller la définition des limites latérales dans le champ `1 : Entrer les données`
+. Cliquer sur le bouton `2 : Convertir (Click)`. Si le contenu du champ `3: Vérifier s'il n'y a pas de fautes` est tout en vert, c'est qu'il n'y a pas d'erreur. S'il y a du rouge, c'est que la conversion a provoqué une erreur en raison d'un format des données inadapté : le point d'interrogation à droite de `1 : Entrer les données` présente les formats corrects. 
++
+[TIP]
+====
+Les erreurs classiques :
+
+* Un zéro figurant en tête de la latitude
+* Des guillemets (pour les minutes et secondes) qui n'en sont pas (apostrophes au lieu de guillemets)
+* Des espaces en trop
+* Dans la définition d'arcs horaires, souvent des erreurs de structure
+====
++
+. En bas de page remplir les champs :
+.. Nom de la carte : saisir le nom de la {ZRT} (exemple : ZRT BRIVAIR, comme illustré sur la figure <<brivair,ci-dessus>>)
+.. Nom de la zone : idem
+.. Description : saisir les limites verticales de la zone (exemple : FL115 * FL195)
+.. Sélectionner la couleur de la zone (si possible la même couleur que celle figurant dans le {SUPAIP})
+.. Ne pas remplir les altitudes (on met tout au niveau du sol dans {earth})
+.. Cliquer sur le bouton `4: Création KML et KMZ (click)` : le fichier `KLM` de la zone est créé et téléchargé.
 
 ==== Affichage des zones dans Google Earth :
 
