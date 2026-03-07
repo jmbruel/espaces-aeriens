@@ -1,0 +1,8 @@
+= Où me renseigner si je vole en Espagne ?
+ifndef::full[]
+include::definitions.adoc[]
+endif::[]
+
+Un très bon site pour se renseigner sur les espaces aériens espagnols est celui de l'ENAIRE, le gestionnaire de l'espace aérien espagnol : https://insignia.enaire.es/. 
+
+WARNING: {Spotair} n'est pas fiable en Espagne.

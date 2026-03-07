@@ -1,0 +1,18 @@
+= Référents EA des CDVL en lien avec la Ligue Occitanie de Vol Libre
+
+[cols="1,2,3",options="header"]
+|===
+|Dpt. |Nom |Email
+
+|09 |CDVL09 |cdvl09@gmail.com
+|11 |Denis CHARDON |chardon.denis.11@gmail.com
+|12 |Alain MARTY |amarty12@free.fr
+|31 |Philippe GOSSARD |airbusskydive@gmail.com
+|34 |Renan CASTOR |renancastor@plantigradecorp.net
+|46 |Fred SINATTI |nlfsinatti@orange.fr
+|48 |Jacques MOPPERT |jacques@lozair.com
+|65 |Ludovic VILLACRES |infos@commeunoiseau.com
+|66 |Gregory NOUHAUD |gnouhaud@gmail.com
+|81 |Alain VARGAS |avargas@orange.fr
+|82 |Louis MESNIER |lmesnier31@gmail.com
+|===
