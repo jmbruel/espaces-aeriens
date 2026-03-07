@@ -4,9 +4,10 @@
 |===
 |Dpt. |Nom |Email
 
-|09 |CDVL09 |cdvl09@gmail.com
+|09 |Dominique GERARD | freedom.gerard@free.fr
 |11 |Denis CHARDON |chardon.denis.11@gmail.com
 |12 |Alain MARTY |amarty12@free.fr
+|30 |Marie-Agnès ALTIER |marieagnesaltier@gmail.com
 |31 |Philippe GOSSARD |airbusskydive@gmail.com
 |34 |Renan CASTOR |renancastor@plantigradecorp.net
 |46 |Fred SINATTI |nlfsinatti@orange.fr
@@ -16,3 +17,5 @@
 |81 |Alain VARGAS |avargas@orange.fr
 |82 |Louis MESNIER |lmesnier31@gmail.com
 |===
+
+//Référents formation FOVL : rrf@lovl.fr
