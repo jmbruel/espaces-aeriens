@@ -17,7 +17,7 @@ Le site de la FFVL dédié à {tuchan} fournit des informations utiles :
 .Les informations sur le site de la FFVL
 image::tuchan-ffvl.png[Informations sur le site de Tuchan, 95%, alt="Informations sur le site de Tuchan"]
 
-WARNING: Les informations sur les espaces aériens ne sont pas nécessairement à jour sur le site de la {FFVL}. Les seules références sont les cartes aéronautiques disponible sur le site du {SIA}. En l'occurence, au moment où cette capture d'écran a été réalisée il est fait mention d'une FL75 (2250 m) quand on s'éloigne de la {TMA} vers le Nord Ouest, alors que la carte aéronautique n'indique aucune classe (donc une classe {G}) et donc un plafond à {FL115} (3510 m environ).
+WARNING: Les informations sur les espaces aériens ne sont pas nécessairement à jour sur le site de la {FFVL}. Les seules références sont les cartes aéronautiques disponible sur le site du {SIA}. En l'occurence, au moment où cette capture d'écran a été réalisée il est fait mention d'une FL75 (2250 m) quand on s'éloigne de la {TMA} vers le Nord Ouest, alors que la carte aéronautique n'indique aucune classe (donc une classe {G}) et donc un plafond à {FL115} (3510 m environ). C'est corrigé depuis.
 
 == Exemple sur SpotAir 
 

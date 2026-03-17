@@ -1,2 +1,9 @@
 .DS_Store 
-*.html
+*.htmlnode_modules
+package-lock.json
+package.json
+tuchan.pdf
+node_modules
+index.html
+missionsEA.html
+tuchan.html

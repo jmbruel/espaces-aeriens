@@ -1,8 +1,20 @@
-all: *.adoc
-	asciidoctor index.adoc
+#-----------------------------------------------------
+# Some usefull instructions...
+#
+EXT=adoc
+DOCTOR=asciidoctor
+# npm i @asciidoctor/core asciidoctor-pdf --save-dev
+DOCTOR-PDF=npx asciidoctor-web-pdf
+#-----------------------------------------------------
 
-full: *.adoc
-	asciidoctor -a data-uri index.adoc
+%.html: %.$(EXT)
+	@echo '==> Compiling asciidoc files with Asciidoctor to generate HTML'
+	$(DOCTOR) -a data-uri $<
+		
+%.pdf: %.$(EXT)
+	@echo '==> Compiling asciidoc files with Asciidoctor to generate PDF'
+	$(DOCTOR-PDF) $<
 
-pdf: *.adoc
-	asciidoctor-pdf index.adoc
+clean:
+	@echo '==> Cleaning up generated files'
+	rm -f *.{html,pdf}	
