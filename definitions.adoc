@@ -9,6 +9,7 @@
 
 // Personnes et lieux et outils
 :earth: https://earth.google.com/web[Google Earth]
+:lovl: https://www.lovl.fr/[Ligue Occitanie de Vol Libre]
 :pascal: mailto:pascal.wi@orange.fr[Pascal Wisniewski]
 :referentemail: jbruel@gmail.com
 :referent: mailto:{referentemail}[Jean-Michel Bruel]

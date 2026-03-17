@@ -1,0 +1,41 @@
+= La Zone Centre
+ifndef::full[]
+Jean-Michel Bruel -- Référent Espaces Aériens CDVL11 
+include::definitions.adoc[]
+endif::[]
+
+NOTE: Merci à {pascal} -- Référent Espaces Aériens {lovl} pour cette partie de la FAQ. 
+
+== La Zone Centre
+
+Toutes les zones R68 et R368 font partie de ce qu'on appelle la Zone Centre.
+
+La Zone Centre est utilisée pour des exercices militaires, parfois seule, et souvent en complément pour d'autres exercices (donc pas mal utilisée). 
+En général, ce sont des périodes plutôt courtes, mais ça peut s'étendre lors de gros exercices.
+
+Elle peut être activée selon 2 configurations (avec ou sans les zones R368 E1 et E2 ... situées au N de la zone centre).
+
+L'activation des zones est annoncée en détail par {NOTAM} ... donc à tcheker.
+
+Évidemment, les zones actives sont strictement  interdites d'accès pendant les périodes d'activation.
+
+NOTE: Les zones R68 dont souvent activées hors activation de la Zone Centre ... donc à checker également.
+
+Toutes les infos sur la Zone Centre sont dispos sur le site du {SIA} (https://www.sia.aviation-civile.gouv.fr/calendrier-zone-centre), dont un calendrier prévisionnel d'activation ... qui n'exonère pas de consulter les NOTAM : ça peut bouger et l'activation des R68 seules ne figure pas dans ce [calendrier prévisionnel].
+
+
+.La Zone Centre - Vue d'ensemble
+image::zone-centre_hd.jpg[Vue d'ensemble de la Zone Centre, 95%, alt="Vue d'ensemble de la Zone Centre"]
+
+.Profil vertical de la Zone Centre
+image::zone-centre-coupe.jpg[Profil vertical de la Zone Centre, 95%, alt="Profil vertical de la Zone Centre"]
+
+
+//======================== Annexes pour la version seule ========================
+ifndef::full[]
+
+:numbered!:
+[appendix]
+include::acronymes.adoc[leveloffset=+1]
+
+endif::[]
