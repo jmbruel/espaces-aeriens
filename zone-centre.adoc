@@ -21,7 +21,7 @@ L'activation des zones est annoncée en détail par {NOTAM} ... donc à tcheker.
 
 NOTE: Les zones R68 dont souvent activées hors activation de la Zone Centre ... donc à checker également.
 
-Toutes les infos sur la Zone Centre sont dispos sur le site du {SIA} (https://www.sia.aviation-civile.gouv.fr/calendrier-zone-centre), dont un calendrier prévisionnel d'activation ... qui n'exonère pas de consulter les NOTAM : ça peut bouger et l'activation des R68 seules ne figure pas dans ce [calendrier prévisionnel].
+Toutes les infos sur la Zone Centre sont dispos sur le site du {SIA} (https://www.sia.aviation-civile.gouv.fr/calendrier-zone-centre), dont un calendrier prévisionnel d'activation ... qui n'exonère pas de consulter les {NOTAM} : ça peut bouger et l'activation des R68 seules ne figure pas dans ce [calendrier prévisionnel].
 
 
 .La Zone Centre - Vue d'ensemble
@@ -29,6 +29,8 @@ image::zone-centre_hd.jpg[Vue d'ensemble de la Zone Centre, 95%, alt="Vue d'ense
 
 .Profil vertical de la Zone Centre
 image::zone-centre-coupe.jpg[Profil vertical de la Zone Centre, 95%, alt="Profil vertical de la Zone Centre"]
+
+TIP: Petit complément pratique : lors d'une recherche dans les {NOTAM}, il faut faire une recherche sur les deux : R68 et R368.
 
 
 //======================== Annexes pour la version seule ========================
