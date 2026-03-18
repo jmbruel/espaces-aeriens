@@ -1,0 +1,45 @@
+= Quelles sont les délais et règles pour demander une ZRT ?
+ifndef::full[]
+include::definitions.adoc[]
+endif::[]
+
+Pour toute demande de {SUPAIP} ou de {NOTAM} par des structures de la Ligue, il faut passer par le {RREA} de la ligue, afin de garantir le respect du formalisme demandé par la {DSAC}. 
+
+La {DGAC} Sud impose que les demandes soient transmises dans certains délais avant la date de l'événement :
+
+* 9 semaines pour un simple {NOTAM} d'information (pas de création d'espace ségrégué)
+
+* 10 semaines pour la création d'une ZRT de volume simple (cylindre)
+
+* 15 semaines pour la création d'une ZRT de volume complexe
+
+TIP: Par précaution, ajouter une semaine pour laisser le temps de traiter en interne.
+
+
+Les infos de base à fournir au {RREA} Ligue pour réaliser une demande de {NOTAM} ou de {SUPAIP} sont les suivantes :
+
+* Nom de la structure demandeuse
+
+* Nature de la compétition / de l'événement (compétition / amicale /...)
+
+* Inscription au calendrier Fédéral (oui / non)
+
+* Site de vol concerné et département
+
+* Dates / horaires journalier de début et de fin (UTC)
+
+* Dates de report si prévues (sinon : « Pas de report prévu en cas de mauvaise météo »)
+
+* Nombre approximatif de participants
+
+* Limites horizontales de la zone (coordonnées des points ou fichier KML/KMZ Google Map)
+
+* Limites verticales de la zone
+
+* Contact téléphonique joignable durant toute la compétition : Nom, Prénom, N° de téléphone
+
+* Coordonnées géographiques du décollage (DD°MM'SS'' N - DDD°MM'SS'' E/O)
+
+.Exemple de demandes de SUPAIP pour une compétition FFVL
+image::demandeSUPAIP.png[Exemple de demandes de SUPAIP pour une compétition FFVL, 95%, alt="Exemple de demandes de SUPAIP pour une compétition FFVL"]
+

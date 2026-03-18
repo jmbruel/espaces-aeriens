@@ -69,6 +69,12 @@ Pour y appartenir, il faut décoller avec la seule force musculaire, faire moins
 **R** (Réglementée ou 🇬🇧 _Restricted_) : Il s'agit typiquement des zones d’entraînement de la Défense nationale. Cf. {RTBA} et {ZRT}. 
 Lorsque la zone est active, il est bien entendu absolument interdit d’y pénétrer. 
 
+[[RREA]]
+**RREA** (RéféRent Espaces Aériens) : personne désignée par la Ligue pour être l'interlocuteur privilégié des structures de la Ligue pour les questions liées aux espaces aériens, notamment pour les demandes de {SUPAIP} et de {NOTAM}.
+Depuis le 7 mars 2026, pour la {lovl}, c'est mailto:jbruel@gmail.com[Jean-Michel Bruel], qui a pris la suite de {pascal} (qui reste adjoint pour un an).
+
+[[SERA]]
+
 [[RTBA]]
 **RTBA** (Réseau Très Basse Altitude) : réseau de zones d'entraînement de la Défense nationale.
 
