@@ -5,23 +5,23 @@ endif::[]
 
 Liste des 13 référents espaces aériens des CDVL en lien avec la Ligue Occitanie de Vol Libre (en date du {localdate}) :
 
-[cols="1,2,3",options="header"]
+[cols="1,2,3,4",options="header"]
 |===
-|Dpt. |Nom |Email
+|# |Département |Nom du RREA  |Email
 
-|09 |Dominique GERARD | freedom.gerard@free.fr
-|11 |Denis CHARDON |chardon.denis.11@gmail.com
-|12 |Alain MARTY |amarty12@free.fr
-|30 |Marie-Agnès ALTIER |marieagnesaltier@gmail.com
-|31 |Philippe GOSSARD |airbusskydive@gmail.com
-|32 | Pas de CDVL dans le Gers |
-|34 |Renan CASTOR |renancastor@plantigradecorp.net
-|46 |Fred SINATTI |nlfsinatti@orange.fr
-|48 |Jacques MOPPERT |jacques@lozair.com
-|65 |Ludovic VILLACRES |infos@commeunoiseau.com
-|66 |Gregory NOUHAUD |gnouhaud@gmail.com
-|81 |Alain VARGAS |avargas@orange.fr
-|82 |Louis MESNIER |lmesnier31@gmail.com
+|09 |https://intranet.ffvl.fr/structure/202[C.D.V.L. ARIEGEOIS] |Dominique GERARD | freedom.gerard@free.fr
+|11 |https://intranet.ffvl.fr/structure/950[C.D.V.L. DE L'AUDE] |Denis CHARDON |chardon.denis.11@gmail.com
+|12 |https://intranet.ffvl.fr/structure/200[C.D.V.L. AVEYRON] |Alain MARTY |amarty12@free.fr
+|30 |https://intranet.ffvl.fr/structure/951[C.D.V.L. DU GARD] |Marie-Agnès ALTIER |marieagnesaltier@gmail.com
+|31 |https://intranet.ffvl.fr/structure/1486[C.D.V.L. DE HAUTE GARONNE] |Philippe GOSSARD |airbusskydive@gmail.com
+|32 |https://intranet.ffvl.fr/structure/13032[C.D.V.L DU GERS] | Pas de CDVL dans le Gers |
+|34 |https://intranet.ffvl.fr/structure/948[C.D.V.L. DE L'HERAULT] |Renan CASTOR |renancastor@plantigradecorp.net
+|46 |https://intranet.ffvl.fr/structure/201[C.D.V.L. DU LOT] |Fred SINATTI |nlfsinatti@orange.fr
+|48 |https://intranet.ffvl.fr/structure/949[C.D.V.L. DE LOZERE] |Jacques MOPPERT |jacques@lozair.com
+|65 |https://intranet.ffvl.fr/structure/205[C.D.V.L. DES HAUTES PYRENEES] |Ludovic VILLACRES |infos@commeunoiseau.com
+|66 |https://intranet.ffvl.fr/structure/947[C.D.V.L. PYRENEES-ROUSSILLON] |Gregory NOUHAUD |gnouhaud@gmail.com
+|81 |https://intranet.ffvl.fr/structure/203[C.D.V.L. DU TARN-ET-GARONNE] |Alain VARGAS |avargas@orange.fr
+|82 |https://intranet.ffvl.fr/structure/204[C.D.V.L. DU TARN] |Louis MESNIER |lmesnier31@gmail.com
 |===
 
 .Carte des départements (source https://commons.wikimedia.org/w/index.php?search=File%3AOccitanie&title=Special:Search&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Languedoc-Roussillon-Midi-Pyr%C3%A9n%C3%A9es_et_provinces.svg[ici])
