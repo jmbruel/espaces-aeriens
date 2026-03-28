@@ -1,11 +1,11 @@
-= C'est quoi le rôle du référent Espaces Aériens ?
+= C'est quoi le rôle du référent Espaces Aériens de la Ligue Occitanie de Vol Libre ?
 ifndef::full[]
 include::definitions.adoc[]
 endif::[]
 
 Votre ligue, votre CDVL et peut-être aussi votre club ont des "référents EA". Leur rôle ...
 
-Ils sont en relation avec les stuctures aéronautiques.
+Ils sont en relation avec les structures aéronautiques.
 
 **DGAC**
 Présentation :

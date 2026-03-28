@@ -21,6 +21,8 @@ include::notam.adoc[leveloffset=+2]
 include::activation.adoc[leveloffset=+2]
 include::delais.adoc[leveloffset=+2]
 include::semaphore.adoc[leveloffset=+2]
+include::referent-mission.adoc[leveloffset=+2]
+include::referents.adoc[leveloffset=+2]
 
 == Questions Générales
 
@@ -81,13 +83,13 @@ Pour plus d'informations, consultez les documents officiels des autorités aéro
 .Conversions
 [TIP]
 =====
-Les hauteeurs ou les alititudes sont généralement exprimées en pieds (ft) dans le milieu de l'aviation.
+Les hauteurs ou les altitudes sont généralement exprimées en pieds (ft) dans le milieu de l'aviation.
 Pour convertir des pieds en mètres, utilisez la formule suivante :
 1 pied = 0,3048 mètre
 
 Exemple : 1000 ft = 1000 x 0,3048 = 304,8 m.
 
-Pour faire simple on dicise par 3 pour obtenir une valeur approchée en mètres.
+Pour faire simple on divise par 3 pour obtenir une valeur approchée en mètres.
 =====
 
 [appendix]

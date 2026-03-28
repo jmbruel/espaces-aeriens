@@ -79,7 +79,7 @@ Depuis le 7 mars 2026, pour la {lovl}, c'est mailto:jbruel@gmail.com[Jean-Michel
 **RTBA** (Réseau Très Basse Altitude) : réseau de zones d'entraînement de la Défense nationale.
 
 [[SERA]]
-**SERA** (🇬🇧 _Standardised European Rules of the Air_) : règles de l'air standard, éditée en France par la {DGAC}. 
+**SERA** (🇬🇧 _Standardized European Rules of the Air_) : règles de l'air standard, éditée en France par la {DGAC}. 
 Site : https://www.ecologie.gouv.fr/sites/default/files/documents/sera_complet_version17012026.pdf
 
 [[SIA]]

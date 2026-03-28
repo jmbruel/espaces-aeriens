@@ -1,4 +1,4 @@
-= Référents EA des CDVL en lien avec la Ligue Occitanie de Vol Libre
+= Qui sont les référents EA des CDVL en lien avec la Ligue Occitanie de Vol Libre
 ifndef::full[]
 include::definitions.adoc[]
 endif::[]
@@ -26,4 +26,4 @@ Liste des 13 référents espaces aériens des CDVL en lien avec la Ligue Occitan
 
 .Carte des départements (source https://commons.wikimedia.org/w/index.php?search=File%3AOccitanie&title=Special:Search&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Languedoc-Roussillon-Midi-Pyr%C3%A9n%C3%A9es_et_provinces.svg[ici])
 image::occitanie.png[Carte des départements d'Occitanie, 95%, alt="Carte des départements d'Occitanie"]
-//Référents formation FOVL : rrf@lovl.fr
+//Référents formation LOVL : rrf@lovl.fr
