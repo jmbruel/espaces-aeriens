@@ -1,0 +1,33 @@
+= Altiport de Peyresourde
+ifndef::full[]
+Jean-Michel Bruel -- Référent Espaces Aériens CDVL11 
+include::definitions.adoc[]
+endif::[]
+
+== La règle
+
+Comme tous les altiports, les procédures d'approche et de départ sont décrites dans une carte d'approche publiée par la DGAC. 
+Pour Peyresourde (enfin Peyresourde-Balestas, code LFIP) il s'agit de la carte {VAC}  https://www.peyragudes-air-club.fr/medias/files/vac-lfip-20231102.pdf[carte VAC LFIP] publiée en novembre 2023, qui décrit les procédures d'approche et de départ pour les avions et les hélicoptères :
+
+[[carteVAC]]
+.Approche à vue de Peyresourde (Carte complète 
+https://www.peyragudes-air-club.fr/medias/files/vac-lfip-20231102.pdf[ici])
+image::peyresourde.png[Atterrissage de Peyresourde, 95%, alt="Atterrissage de Peyresourde"]
+
+== Cohabitation parapente et altiport
+
+Un protocole de coactivité a été mis à jour après une situation problématique en août 2024 :
+
+.Coactivité à Peyresourde
+image::SurvolAltiportPeyragudes.jpg[Coactivité à Peyresourde, 95%, alt="Coactivité à Peyresourde"]
+
+WARNING: Cette coactivité ne montre pas l'altitude de rentrée des aéronefs vers l'altiport, qui est de 6000 ft (environ 1820 m) comme indiqué sur la <<carteVAC, carte VAC>>.
+
+//======================== Annexes pour la version Tuchan seul ========================
+ifndef::full[]
+
+:numbered!:
+[appendix]
+include::acronymes.adoc[leveloffset=+1]
+
+endif::[]
