@@ -1,0 +1,13 @@
+= Cartographie
+ifndef::full[]
+include::definitions.adoc[]
+endif::[]
+
+== Formats de cartes
+
+* KML de {earth}
+* OpenAir : format de données aéronautiques utilisé pour représenter les espaces aériens, les aérodromes, les obstacles, etc.
+
+== Outils de conversion
+
+* https://www.wilderadventures.com/kml-to-airspace[KML -> OpenAir]
