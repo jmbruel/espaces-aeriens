@@ -61,6 +61,7 @@ WARNING: To be continued...
 
 include::tuchan.adoc[leveloffset=+2]
 include::luchon.adoc[leveloffset=+2]
+include::peyresourde.adoc[leveloffset=+2]
 include::zone-centre.adoc[leveloffset=+2]
 
 
