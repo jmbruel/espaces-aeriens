@@ -20,8 +20,8 @@ Liste des 13 référents espaces aériens des CDVL en lien avec la Ligue Occitan
 |48 |https://intranet.ffvl.fr/structure/949[C.D.V.L. DE LOZERE] |Jacques MOPPERT |jacques@lozair.com
 |65 |https://intranet.ffvl.fr/structure/205[C.D.V.L. DES HAUTES PYRENEES] |Ludovic VILLACRES |infos@commeunoiseau.com
 |66 |https://intranet.ffvl.fr/structure/947[C.D.V.L. PYRENEES-ROUSSILLON] |Gregory NOUHAUD |gnouhaud@gmail.com
-|81 |https://intranet.ffvl.fr/structure/203[C.D.V.L. DU TARN-ET-GARONNE] |Alain VARGAS |avargas@orange.fr
-|82 |https://intranet.ffvl.fr/structure/204[C.D.V.L. DU TARN] |Louis MESNIER |lmesnier31@gmail.com
+|81 | (ex) C.D.V.L. DU TARN |Alain VARGAS et Cédric Cambon |avargas@orange.fr, lagelat@gmail.com
+|82 |https://intranet.ffvl.fr/structure/203[C.D.V.L. DU TARN-ET-GARONNE] |Louis MESNIER |lmesnier31@gmail.com
 |===
 
 .Carte des départements (source https://commons.wikimedia.org/w/index.php?search=File%3AOccitanie&title=Special:Search&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Languedoc-Roussillon-Midi-Pyr%C3%A9n%C3%A9es_et_provinces.svg[ici])

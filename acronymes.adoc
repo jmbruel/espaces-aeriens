@@ -103,3 +103,4 @@ Elles décrivent les procédures VFR (entrée/sortie de circuit, fréquences, al
 **ZRT** (Zone Réglementée Temporaire) : zone interdite au vol libre, mais autorisée pour les vols spécifiques (ex: exercices militaires).
 
 
+NOTE: En complément pour un sigle qui ne serait pas dans cette liste, voir https://sofia-briefing.aviation-civile.gouv.fr/content/sofia/datas/admin/medias/FAQ/Abréviations/Abréviations.pdf[ici].
