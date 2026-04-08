@@ -11,3 +11,14 @@ endif::[]
 == Outils de conversion
 
 * https://www.wilderadventures.com/kml-to-airspace[KML -> OpenAir]
+
+
+== Outils de navigation
+
+* https://www.xcontest.org/world/fr/ : site de compétition de vol libre avec une carte interactive des vols et des espaces aériens.
+* https://www.xcplanner.com/ : outil de planification de vol pour les pilotes de vol libre, avec une carte interactive des espaces aériens et des conditions météorologiques.
+* https://www.flyskyhy.com/ : application mobile de navigation pour les pilotes de vol libre, avec une carte interactive des espaces aériens et des conditions météorologiques.
+* https://www.naviter.com/ : fabricant de GPS pour les pilotes de vol libre, avec une carte interactive des espaces aériens et des conditions météorologiques.
+* https://www.igc.org/ : site de la Fédération Aéronautique Internationale (FAI) avec une carte interactive des vols et des espaces aériens.
+* https://xctrack.org/[XCTrack]. Le https://xctrack.org/Manual.html[manuel de XCTrack] pour importer des espaces au format OpenAir.
+* https://thermal.kk7.ch/ pour suivre les traces de vol passés (skyways).
