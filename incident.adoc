@@ -1,0 +1,10 @@
+= Comment déclarer un incident aérien ?
+ifndef::full[]
+include::definitions.adoc[]
+endif::[]
+
+Via le formulaire {ECCAIRS}, les infos ici :
+https://www.ecologie.gouv.fr/politiques-publiques/notifier-incident#notifier-au-moyen-dun-formulaire-electronique-5
+
+Le tuto du formulaire :
+https://www.ecologie.gouv.fr/sites/default/files/documents/Guide_E2_individus.pdf
