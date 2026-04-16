@@ -22,3 +22,8 @@ endif::[]
 * https://www.igc.org/ : site de la Fédération Aéronautique Internationale (FAI) avec une carte interactive des vols et des espaces aériens.
 * https://xctrack.org/[XCTrack]. Le https://xctrack.org/Manual.html[manuel de XCTrack] pour importer des espaces au format OpenAir.
 * https://thermal.kk7.ch/ pour suivre les traces de vol passés (skyways).
+
+== Outils de planification de vols
+
+// Conseil de Daniel Vielle
+* utilisé par les pilotes : https://github.com/albar965/littlenavmap
