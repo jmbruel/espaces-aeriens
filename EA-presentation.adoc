@@ -49,7 +49,7 @@ SIA -> eaip -> 5.1 dans le menu eAIP puis CTRL F pour trouver la zone qui nous i
 Exemple sur les zones R 46 de Argeliers (les aprem sont tranquilles).
 
 
-Pour les RTBA : Carte AZBA (aussi SIA)
+Pour les {RTBA} : Carte {AZBA} (aussi SIA)
 
 stac aviation civile pour voire les ZSM (Zones de Sensibilité Majeur)
 

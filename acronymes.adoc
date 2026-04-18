@@ -13,6 +13,10 @@ D'où les {SUPAIP} (Suppléments à l'AIP) qui sont des informations temporaires
 [[ASFC]]
 **ASFC** (🇬🇧 _Above SurFaCe_) : altitude au-dessus du relief (précision sur une altitude).
 
+[[AZBA]]
+**AZBA** (Activation des Zones Basses Altitudes) : dispositif de coordination entre les autorités aéronautiques et les utilisateurs de l'espace aérien pour l'activation des zones à basse altitude, notamment les {RTBA}.
+Site : https://www.sia.aviation-civile.gouv.fr/schedules
+
 [[CFD]]
 **CFD** 
 
