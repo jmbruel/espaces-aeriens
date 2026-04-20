@@ -27,3 +27,7 @@ endif::[]
 
 // Conseil de Daniel Vielle
 * utilisé par les pilotes : https://github.com/albar965/littlenavmap
+* Le site de Thomas Depresle : https://hehol.fr/
++
+.Sur HEHOL, on peut lister les activités sur un parcours
+image::hehol-parcours.png[Hehol, 95%]
