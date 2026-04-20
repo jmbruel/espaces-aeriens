@@ -3,7 +3,9 @@ ifndef::full[]
 include::definitions.adoc[]
 endif::[]
 
-Liste des 13 référents espaces aériens des CDVL en lien avec la Ligue Occitanie de Vol Libre (en date du {localdate}) :
+== Les RREA CDVL 
+
+Liste des 13 RéféRents Espaces Aériens (RREA) des CDVL en lien avec la Ligue Occitanie de Vol Libre (en date du {localdate}) :
 
 [cols="1,2,3,4",options="header"]
 |===
@@ -27,3 +29,14 @@ Liste des 13 référents espaces aériens des CDVL en lien avec la Ligue Occitan
 .Carte des départements (source https://commons.wikimedia.org/w/index.php?search=File%3AOccitanie&title=Special:Search&go=Go&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#/media/File:Languedoc-Roussillon-Midi-Pyr%C3%A9n%C3%A9es_et_provinces.svg[ici])
 image::occitanie.png[Carte des départements d'Occitanie, 95%, alt="Carte des départements d'Occitanie"]
 //Référents formation LOVL : rrf@lovl.fr
+
+== Les homologues référents CCRAGALS
+
+[cols="1,1,1,1",options="header"]
+|===
+|Zone |Nom du RREA  |Email  |Téléphone
+| Nord-Est |Cyrille VALDENAIRE | ccragals-ne@ffvl.fr    | 0681741490
+|===
+
+
+
