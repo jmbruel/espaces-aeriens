@@ -32,6 +32,8 @@ image::occitanie.png[Carte des départements d'Occitanie, 95%, alt="Carte des d�
 
 == Les homologues référents CCRAGALS
 
+NOTE: La liste officielle est ici : https://federation.ffvl.fr/sites/ffvl.fr/files/Referents_EA_FFVL_par_CCRAGALS-DSAC-2026.pdf
+
 [cols="1,1,1,1",options="header"]
 |===
 |Zone |Nom du RREA  |Email  |Téléphone
