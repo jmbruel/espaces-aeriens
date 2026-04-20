@@ -3,6 +3,8 @@ ifndef::full[]
 include::definitions.adoc[]
 endif::[]
 
+== Généralités
+
 Les {NOTAM} mentionnent parfois explicitement le numéro du {DIREX} à contacter pour avoir les horaires d'activation d'une {ZRT}.
 
 .exemple de NOTAM avec indication du DIREX
@@ -32,3 +34,20 @@ image::notam-direx2.png[Exemple de NOTAM avec DIREX, 95%]
 TIP: Le site le plus pratique pour nous, pour consulter les {NOTAM}, est ici : https://notaminfo.com/francemap.
 
 NOTE: Le https://www.sia.aviation-civile.gouv.fr/pub/media/news/file/g/u/guide_de_la_consultation_notam_fran_ais_25_mai_2020.pdf[Guide de la consultation des NOTAM en français] publié par la {SIA} est aussi très utile pour comprendre comment lire les {NOTAM}.
+
+== Zones spécifiques
+ 
+* La zone centre : https://www.sia.aviation-civile.gouv.fr/calendrier-zone-centre
+* Les RTBA : https://www.sia.aviation-civile.gouv.fr/schedules
+
+== Autres informations intéressantes
+
+* Les Zones de l’Ardèche : R55 B, C, et D :
+https://sudardechevolibre.wixsite.com/parapente-ardeche/l-espace-a%C3%A9rien
+* Infos du site de CABRI’AIR :
+https://www.cabriair.net/IMG/pdf/Espace_aeriens.pdf
+* L’Espace Aérien avec Google Earth :
+http://pascal.bazile.free.fr/paraglidingFolder/divers/GPS/OpenAir-
+Format/#HideShowItem-0TitleKML
+* Le site de la DIRCAM (DIRection de la Circulation Aérienne Militaire)
+https://www.dircam.dsae.defense.gouv.fr/index.php/fr
