@@ -9,3 +9,5 @@ Voici un simple rappel à l'ordre, concernant un incident qui s'est passée en 2
 
 .Exemple de rappel à l'ordre suite au survol d'une zone classée D (source : FFVL)
 image::incident.png[Cas de survol d'une zone interdite, 95%, alt="Cas de survol d'une zone interdite"]
+
+Voir également https://www.defense.gouv.fr/air/actualites/sommet-du-g7-premier-arraisonnement-vol-dun-parapentiste[l'interpellattion en plein vol d'un parapentiste pendant le G7]
