@@ -1,0 +1,45 @@
+= Comment signaler unes quasi collision (AIRPROX) ?
+ifndef::full[]
+include::definitions.adoc[]
+endif::[]
+
+En cas de quasi collision, il faut déclarer un airprox dans le but de mettre en place un dialogue entres les acteurs locaux civils, militaires, parapentistes, etc.L'objectif est de pouvoir échanger et expliquer aux pilotes d'avions comment volent les parapentistes et où ils sont susceptibles d'en croiser en vol dans leur région.
+
+La réglementation aérienne spécifie que tout événement ayant eu potentiellement un impact sur la sécurité doit faire l'objet d'une déclaration (https://www.ecologie.gouv.fr/politiques-publiques/notifier-incident#notifier-au-moyen-dun-formulaire-electronique-5[formulaire en ligne ECCAIRS2]). 
+Sont concernés toute personne ayant une activité dans le domaine de l'aviation civile, y compris celui de l'aviation de loisir. 
+Certains événements susceptibles de présenter un risque important (définis dans le règlement https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32015R1018[UE 2015/1018]) impliquent une obligation de déclaration, et les autres doivent faire l'objet d'une déclaration volontaire, également obligatoire si l'analyse de l'événement fait apparaître des enjeux de sécurité.
+
+== Formulaire de déclaration ECCAIRS2
+
+NOTE: Le remplissage du formulaire est contraignant à faire (voir compliqué), mais c'est la seule option !
+À défaut, la Direction de la Sécurité de l'Aviation Civile (DSAC) considère ne pas avoir de trace de l'événement.
+
+En terme de délai de déclaration, nous ne disposons pas d'une information précise : les textes réglementaires fixent à priori un délai de 72H pour les événements les plus significatifs, alors que d'un autre côté un pilote de parapente qui a fait une déclaration ECCAIRS2 en début d'année 2026 a cité un délai de 15 jours.
+
+Quelques liens utiles :
+
+-  Présentation générale du formulaire : https://www.ecologie.gouv.fr/politiques-publiques/notifier-incident#notifier-au-moyen-dun-formulaire-electronique-5
+- Présentation synthétique disponible sur le site de FFPLUM : https://ffplum.fr/securite/eccairs
+- Guide d'utilisation de ECCAIRS 2 individus : https://www.ecologie.gouv.fr/sites/default/files/Guide_E2_individus.pdf
+- Lien vers le formulaire en tête du Guide d'utilisation
+
+TIP: Le seul pilote dont nous avons eu un retour sur une déclaration ECCAIRS2 nous a dit avoir fait appel au Service de la Navigation Aérienne (SNA) de la {DSAC} Sud pour l'aider à remplir le formulaire.
+
+
+
+== Déclaration FFVL
+
+Pour que l'incident soit rentré dans les statistiques des AIRPROX de la {FFVL} et pour le suivi du dossier via ECCAIRS, il convient d'utiliser le même formulaire que pour les notifications d'accidents :
+
+- Page d'explication: https://federation.ffvl.fr/pages/d-claration-d-accident-v-nement-s-curit
+- Formulaire de déclaration : https://intranet.ffvl.fr/declaration_accidentV3/P
+
+TIP: Ne pas hésiter à mettre des photos ou des tracesen pièces jointes, si elles sont assez parlantes.
+
+WARNING: Pensez à prévenir le référent espace aérien de votre ligue ou de votre comité départemental, afin qu'il puisse suivre le dossier et éventuellement vous aider à remplir le formulaire ECCAIRS2.
+
+== Information diverses concernant les avions de chasses
+
+En classe {G}, les avions de chasse volent à 500ft/sol et aussi à 250ft/sol dans certaines zones qui sont visibles sur les cartes {DIRCAM} (et hélas parfois en dehors).
+Le vol en classe {G} (et pire encore en classe {E}) n'est donc pas sans risque, le voir et éviter ne garantira jamais le zéro accident.
+

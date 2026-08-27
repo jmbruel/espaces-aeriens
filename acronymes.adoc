@@ -39,6 +39,9 @@ Site: https://cnfas.fr/.
 [[CCRAGALS]]
 **CCRAGALS** (Comités Consultatifs Régionaux de l'Aviation Générale et de l'Aviation Légère et Sportive) : sont chargés d'émettre un avis sur les projets de création, modification ou suppression, de zones aériennes.
 
+[[DIRCAM]]
+**DIRCAM** (Direction de la Circulation Aérienne Militaire) : service chargé (pour ce qui nous concerne) de traiter avec les organismes de l'aviation civile de tous les problèmes relatifs à la circulation aérienne intéressant le ministère des Armées, notamment ceux concernant la coordination des circulations aériennes militaire et générale.
+
 [[DIREX]]
 **DIREX** (DIRecteur des EXercices) : Responsable de l'activation ou non d'une zone temporaire (d'exercice).
 C'est la personne à contacter avant d'aller voler dans un secteur concerné par une {ZRT} ou un {RTBA} par exemple.

@@ -1,6 +1,6 @@
 = FAQ - Espaces Aériens
 Jean-Michel Bruel <jbruel@gmail.com>
-v2026-03-28
+v2026-08-27
 include::definitions.adoc[]
 :full:
 
@@ -16,6 +16,7 @@ NOTE: Les informations fournies ici sont à titre indicatif et ne remplacent pas
 == Questions fréquemment posées
 
 include::casSurvol.adoc[leveloffset=+2]
+include::airprox.adoc[leveloffset=+2]
 include::aerodromes.adoc[leveloffset=+2]
 include::notam.adoc[leveloffset=+2]
 include::activation.adoc[leveloffset=+2]
