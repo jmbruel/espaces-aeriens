@@ -40,7 +40,7 @@ Site: https://cnfas.fr/.
 **CCRAGALS** (Comités Consultatifs Régionaux de l'Aviation Générale et de l'Aviation Légère et Sportive) : sont chargés d'émettre un avis sur les projets de création, modification ou suppression, de zones aériennes.
 
 [[DIRCAM]]
-**DIRCAM** (Direction de la Circulation Aérienne Militaire) : service chargé (pour ce qui nous concerne) de traiter avec les organismes de l'aviation civile de tous les problèmes relatifs à la circulation aérienne intéressant le ministère des Armées, notamment ceux concernant la coordination des circulations aériennes militaire et générale.
+**DIRCAM** (DIRection de la Circulation Aérienne Militaire) : service chargé (pour ce qui nous concerne) de traiter avec les organismes de l'aviation civile de tous les problèmes relatifs à la circulation aérienne intéressant le ministère des Armées, notamment ceux concernant la coordination des circulations aériennes militaire et générale.
 
 [[DIREX]]
 **DIREX** (DIRecteur des EXercices) : Responsable de l'activation ou non d'une zone temporaire (d'exercice).
@@ -108,6 +108,9 @@ Elles décrivent les procédures VFR (entrée/sortie de circuit, fréquences, al
 
 [[VFR]]
 **VFR** (🇬🇧 _Visual Flight Rules_) : règles de vol à vue, utilisées pour les vols en conditions météorologiques favorables.
+
+[[ZSM]]
+**ZSM** (Zones de Sensibilité Majeure) : zones apparues ces dernières années, pour « sensibiliser » les pilotes sur des zones à éviter pour la préservation des grands rapaces, en période de nidification. Elles sont interdites au vol libre, mais autorisées pour les vols spécifiques (ex: exercices militaires). Pour les consulter, le mieux est d'aller directement sur https://www.stac.aviation-civile.gouv.fr/fr/zsm[la page attitrée] du Service technique de l'Aviation civile (STAC).
 
 [[ZRT]]
 **ZRT** (Zone Réglementée Temporaire) : zone interdite au vol libre, mais autorisée pour les vols spécifiques (ex: exercices militaires).

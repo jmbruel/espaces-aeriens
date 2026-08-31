@@ -47,5 +47,6 @@
 :SIA: <<SIA, SIA>>
 :SUPAIP: <<SUPAIP, Sup AIP>>
 :VAC: <<VAC, VAC>>
+:ZSM: <<ZSM, ZSM>>
 :ZRT: <<ZRT, ZRT>>
 
