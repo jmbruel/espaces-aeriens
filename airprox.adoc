@@ -3,6 +3,8 @@ ifndef::full[]
 include::definitions.adoc[]
 endif::[]
 
+NOTE: Merci à {pascal} -- Référent Espaces Aériens {lovl} pour cette partie de la FAQ. 
+
 En cas de quasi collision, il faut déclarer un airprox dans le but de mettre en place un dialogue entres les acteurs locaux civils, militaires, parapentistes, etc.L'objectif est de pouvoir échanger et expliquer aux pilotes d'avions comment volent les parapentistes et où ils sont susceptibles d'en croiser en vol dans leur région.
 
 La réglementation aérienne spécifie que tout événement ayant eu potentiellement un impact sur la sécurité doit faire l'objet d'une déclaration (https://www.ecologie.gouv.fr/politiques-publiques/notifier-incident#notifier-au-moyen-dun-formulaire-electronique-5[formulaire en ligne ECCAIRS2]). 
