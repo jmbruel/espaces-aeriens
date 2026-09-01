@@ -1,4 +1,4 @@
-= Comment signaler unes quasi collision (AIRPROX) ?
+= Comment signaler une quasi collision (AIRPROX) ?
 ifndef::full[]
 include::definitions.adoc[]
 endif::[]
