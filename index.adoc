@@ -1,6 +1,6 @@
 = FAQ - Espaces Aériens
 Jean-Michel Bruel <jbruel@gmail.com>
-v2026-08-27
+v2026-09-01
 include::definitions.adoc[]
 :full:
 
